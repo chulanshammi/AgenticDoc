@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: Nova Digital Solutions
+Staff member: Chamari Smith
+Pay period: 09/2025
+
+Earnings .... Gross salary: 6,150.00
+Less ........ Deductions: 498.96
+Paid ........ Amount paid: 5,686.04

@@ -1,0 +1,7 @@
+KANDY HARDWARE STORES
+Currency: LKR
+Monthly salary statement
+Period: Feb-2024
+Total earnings            207,000.00
+Deductions                20,200.00
+Net salary                186,800.00

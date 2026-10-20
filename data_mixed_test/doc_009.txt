@@ -1,0 +1,14 @@
+Invoice
+Currency: LKR
+Supplier: Zenith Freight Ltd
+Customer: Brightway Logistics Ltd
+Date: 08-Sep-2024
+Invoice No: SI-2025-2777
+
+Printed brochures       3 x 38,800.00 = 116,400.00
+Courier delivery        5 x 23,250.00 = 116,250.00
+Cleaning service        5 x 49,400.00 = 247,000.00
+
+Net amount: 479,650.00
+VAT (15%): 71,947.50
+Grand total: 551,597.50

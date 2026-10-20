@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - JULY 2025
+Employee: Kasun Jayasinghe
+Total earnings: 3,850.00 USD
+Deductions (EPF, tax): 1,050.00 USD
+Take-home pay: 2,835.00 USD

@@ -1,0 +1,7 @@
+Greenfield Foods PLC
+Currency: LKR
+PAYSLIP - 05/2025
+Employee: Imran Perera
+Total earnings: 423,500.00
+Deductions: 64,477.97
+Net salary: 359,022.03

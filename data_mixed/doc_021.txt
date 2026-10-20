@@ -1,0 +1,13 @@
+Invoice
+Supplier: Metro IT Services Ltd
+Customer: Lanka Tea Exports
+Date: 2025-07-08
+Invoice No: BILL-2024-6292
+
+Consulting hours        5 x 305.00 = 1,525.00
+Printed brochures       4 x 205.00 = 820.00
+Software licence        1 x 75.00 = 75.00
+
+Net amount: 2,420.00 GBP
+VAT (20%): 484.00 GBP
+Total due: 2,924.00 GBP

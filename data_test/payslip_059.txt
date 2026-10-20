@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: ACME Textiles (Pvt) Ltd
+Staff member: Tharindu Silva
+Pay period: Aug-2024
+
+Earnings .... Total earnings: 4,950.00
+Less ........ Total deductions: 700.00
+Paid ........ Net salary: 4,250.00

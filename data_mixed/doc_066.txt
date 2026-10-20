@@ -1,0 +1,12 @@
+Invoice
+Supplier: Island Packaging Co
+Customer: Greenfield Foods PLC
+Date: 13 April 2025
+Inv. Number: INV-2025-8225
+
+Cleaning service        9 x 17,050.00 = 153,450.00
+Courier delivery        7 x 11,350.00 = 79,450.00
+
+Subtotal: Rs.232,900.00
+VAT @ 18%: 41,922.00 LKR
+Amount due: 2,74,822.00 LKR

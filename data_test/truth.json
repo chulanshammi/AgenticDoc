@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "payslip_000",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Hannah Silva",
+      "pay_period": "April 2024",
+      "gross_pay": 124000.0,
+      "total_deductions": 16150.0,
+      "net_pay": 107850.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_001",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_002",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Kasun Patel",
+      "pay_period": "September 2024",
+      "gross_pay": 4950.0,
+      "total_deductions": 1350.0,
+      "net_pay": 3600.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_003",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Priya Rajapaksa",
+      "pay_period": "July 2024",
+      "gross_pay": 5800.0,
+      "total_deductions": 550.0,
+      "net_pay": 5250.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_004",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ruwan Bandara",
+      "pay_period": "July 2024",
+      "gross_pay": 4800.0,
+      "total_deductions": 1250.0,
+      "net_pay": 3550.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_005",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Tharindu Silva",
+      "pay_period": "April 2025",
+      "gross_pay": 3250.0,
+      "total_deductions": 800.0,
+      "net_pay": 2450.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_006",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Chamari Smith",
+      "pay_period": "July 2025",
+      "gross_pay": 5200.0,
+      "total_deductions": 512.37,
+      "net_pay": 4687.63,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_007",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Imran Taylor",
+      "pay_period": "November 2024",
+      "gross_pay": 3650.0,
+      "total_deductions": 611.83,
+      "net_pay": 3038.17,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_008",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Tharindu Rajapaksa",
+      "pay_period": "October 2024",
+      "gross_pay": 4200.0,
+      "total_deductions": 905.72,
+      "net_pay": 3294.28,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_009",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Chamari Jayasinghe",
+      "pay_period": "November 2024",
+      "gross_pay": 3650.0,
+      "total_deductions": 771.73,
+      "net_pay": 2878.27,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_010",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Oliver Patel",
+      "pay_period": "April 2025",
+      "gross_pay": 6700.0,
+      "total_deductions": 1094.56,
+      "net_pay": 5605.44,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_011",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Tharindu Wickramasinghe",
+      "pay_period": "June 2025",
+      "gross_pay": 131000.0,
+      "total_deductions": 36465.71,
+      "net_pay": 94534.29,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_012",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Oliver Taylor",
+      "pay_period": "March 2025",
+      "gross_pay": 3100.0,
+      "total_deductions": 417.62,
+      "net_pay": 2682.38,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_013",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Ayesha Patel",
+      "pay_period": "February 2025",
+      "gross_pay": 6650.0,
+      "total_deductions": 537.24,
+      "net_pay": 6112.76,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_014",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_015",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Oliver Jayasinghe",
+      "pay_period": "September 2024",
+      "gross_pay": 4250.0,
+      "total_deductions": 894.71,
+      "net_pay": 3355.29,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_016",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Amal Smith",
+      "pay_period": "March 2025",
+      "gross_pay": 3450.0,
+      "total_deductions": 700.34,
+      "net_pay": 2749.66,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_017",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Amal Bandara",
+      "pay_period": "December 2024",
+      "gross_pay": 272500.0,
+      "total_deductions": 71766.31,
+      "net_pay": 200733.69,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_018",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Hannah Smith",
+      "pay_period": "January 2025",
+      "gross_pay": 147500.0,
+      "total_deductions": 39637.48,
+      "net_pay": 107862.52,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_019",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Chamari Khan",
+      "pay_period": "November 2025",
+      "gross_pay": 272500.0,
+      "total_deductions": 66156.96,
+      "net_pay": 206343.04,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_020",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Dilani De Mel",
+      "pay_period": "February 2025",
+      "gross_pay": 369500.0,
+      "total_deductions": 99292.4,
+      "net_pay": 270207.6,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_021",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Dilani Perera",
+      "pay_period": "November 2024",
+      "gross_pay": 4500.0,
+      "total_deductions": 1203.25,
+      "net_pay": 3296.75,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_022",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_023",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Chamari Bandara",
+      "pay_period": "February 2024",
+      "gross_pay": 348500.0,
+      "total_deductions": 43686.22,
+      "net_pay": 304813.78,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_024",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Nimal Smith",
+      "pay_period": "January 2025",
+      "gross_pay": 105500.0,
+      "total_deductions": 22450.0,
+      "net_pay": 83050.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_025",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Sarah Wickramasinghe",
+      "pay_period": "September 2025",
+      "gross_pay": 311500.0,
+      "total_deductions": 28393.55,
+      "net_pay": 283106.45,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_026",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Imran Fernando",
+      "pay_period": "January 2024",
+      "gross_pay": 188000.0,
+      "total_deductions": 23391.68,
+      "net_pay": 164608.32,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_027",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Imran Bandara",
+      "pay_period": "November 2025",
+      "gross_pay": 4000.0,
+      "total_deductions": 950.0,
+      "net_pay": 3050.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_028",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Hannah De Mel",
+      "pay_period": "April 2024",
+      "gross_pay": 4600.0,
+      "total_deductions": 848.24,
+      "net_pay": 3751.76,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_029",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Hannah Taylor",
+      "pay_period": "September 2024",
+      "gross_pay": 4300.0,
+      "total_deductions": 1000.0,
+      "net_pay": 3300.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_030",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Sanduni Smith",
+      "pay_period": "November 2024",
+      "gross_pay": 142000.0,
+      "total_deductions": 34050.0,
+      "net_pay": 107950.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_031",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Ruwan Silva",
+      "pay_period": "July 2025",
+      "gross_pay": 2600.0,
+      "total_deductions": 248.4,
+      "net_pay": 2351.6,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_032",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Hannah Patel",
+      "pay_period": "April 2025",
+      "gross_pay": 3400.0,
+      "total_deductions": 612.07,
+      "net_pay": 2787.93,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_033",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Hannah Perera",
+      "pay_period": "June 2025",
+      "gross_pay": 2500.0,
+      "total_deductions": 200.0,
+      "net_pay": 2300.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_034",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Sarah Wickramasinghe",
+      "pay_period": "March 2024",
+      "gross_pay": 395500.0,
+      "total_deductions": 40450.0,
+      "net_pay": 355050.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_035",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Ayesha Silva",
+      "pay_period": "January 2025",
+      "gross_pay": 5500.0,
+      "total_deductions": 1477.55,
+      "net_pay": 4022.45,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_036",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Ruwan Perera",
+      "pay_period": "January 2025",
+      "gross_pay": 145500.0,
+      "total_deductions": 24350.0,
+      "net_pay": 121150.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_037",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Tharindu Jayasinghe",
+      "pay_period": "November 2024",
+      "gross_pay": 169500.0,
+      "total_deductions": 34850.0,
+      "net_pay": 134650.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_038",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_039",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Oliver Bandara",
+      "pay_period": "September 2025",
+      "gross_pay": 206000.0,
+      "total_deductions": 33425.69,
+      "net_pay": 172574.31,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_040",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ruwan Jayasinghe",
+      "pay_period": "September 2024",
+      "gross_pay": 312000.0,
+      "total_deductions": 75600.0,
+      "net_pay": 236400.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_041",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Priya Jayasinghe",
+      "pay_period": "November 2025",
+      "gross_pay": 5850.0,
+      "total_deductions": 1300.0,
+      "net_pay": 4550.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_042",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_043",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Oliver Jayasinghe",
+      "pay_period": "November 2025",
+      "gross_pay": 3650.0,
+      "total_deductions": 400.0,
+      "net_pay": 3250.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_044",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Dilani Rajapaksa",
+      "pay_period": "December 2024",
+      "gross_pay": 350500.0,
+      "total_deductions": 88450.0,
+      "net_pay": 262050.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_045",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ruwan Taylor",
+      "pay_period": "August 2025",
+      "gross_pay": 6000.0,
+      "total_deductions": 692.81,
+      "net_pay": 5307.19,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_046",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Imran Smith",
+      "pay_period": "September 2025",
+      "gross_pay": 3150.0,
+      "total_deductions": 700.0,
+      "net_pay": 2450.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_047",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Kasun Rajapaksa",
+      "pay_period": "August 2025",
+      "gross_pay": 214000.0,
+      "total_deductions": 35853.87,
+      "net_pay": 178146.13,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_048",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_049",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Ayesha Patel",
+      "pay_period": "January 2025",
+      "gross_pay": 3800.0,
+      "total_deductions": 933.55,
+      "net_pay": 2866.45,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_050",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Dilani Jayasinghe",
+      "pay_period": "May 2024",
+      "gross_pay": 2150.0,
+      "total_deductions": 584.02,
+      "net_pay": 1565.98,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_051",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ayesha Khan",
+      "pay_period": "June 2025",
+      "gross_pay": 229500.0,
+      "total_deductions": 19150.0,
+      "net_pay": 210350.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_052",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ayesha Rajapaksa",
+      "pay_period": "May 2025",
+      "gross_pay": 5150.0,
+      "total_deductions": 450.0,
+      "net_pay": 4700.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_053",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Hannah Khan",
+      "pay_period": "November 2025",
+      "gross_pay": 3450.0,
+      "total_deductions": 545.18,
+      "net_pay": 2904.82,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_054",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Kasun Khan",
+      "pay_period": "July 2025",
+      "gross_pay": 205500.0,
+      "total_deductions": 18650.0,
+      "net_pay": 186850.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_055",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Dilani Taylor",
+      "pay_period": "October 2024",
+      "gross_pay": 2350.0,
+      "total_deductions": 250.0,
+      "net_pay": 2100.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_056",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_057",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Priya Jayasinghe",
+      "pay_period": "May 2024",
+      "gross_pay": 3350.0,
+      "total_deductions": 853.99,
+      "net_pay": 2496.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_058",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_059",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Tharindu Silva",
+      "pay_period": "August 2024",
+      "gross_pay": 4950.0,
+      "total_deductions": 700.0,
+      "net_pay": 4250.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_060",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Oliver Khan",
+      "pay_period": "December 2024",
+      "gross_pay": 4950.0,
+      "total_deductions": 505.61,
+      "net_pay": 4444.39,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_061",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Chamari Fernando",
+      "pay_period": "October 2025",
+      "gross_pay": 203500.0,
+      "total_deductions": 24781.12,
+      "net_pay": 178718.88,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_062",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Oliver Khan",
+      "pay_period": "August 2024",
+      "gross_pay": 5850.0,
+      "total_deductions": 1483.54,
+      "net_pay": 4366.46,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_063",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Imran Perera",
+      "pay_period": "May 2025",
+      "gross_pay": 423500.0,
+      "total_deductions": 64477.97,
+      "net_pay": 359022.03,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_064",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ayesha De Mel",
+      "pay_period": "August 2024",
+      "gross_pay": 4150.0,
+      "total_deductions": 900.0,
+      "net_pay": 3250.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_065",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Chamari Silva",
+      "pay_period": "April 2025",
+      "gross_pay": 347000.0,
+      "total_deductions": 59650.0,
+      "net_pay": 287350.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_066",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_067",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_068",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Chamari Wickramasinghe",
+      "pay_period": "December 2024",
+      "gross_pay": 185500.0,
+      "total_deductions": 36700.0,
+      "net_pay": 148800.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_069",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_070",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Sarah Silva",
+      "pay_period": "August 2024",
+      "gross_pay": 3450.0,
+      "total_deductions": 350.0,
+      "net_pay": 3100.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_071",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Priya Rajapaksa",
+      "pay_period": "July 2024",
+      "gross_pay": 3350.0,
+      "total_deductions": 900.0,
+      "net_pay": 2450.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_072",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Dilani Rajapaksa",
+      "pay_period": "April 2025",
+      "gross_pay": 5950.0,
+      "total_deductions": 1474.72,
+      "net_pay": 4475.28,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_073",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Nimal Khan",
+      "pay_period": "September 2025",
+      "gross_pay": 218000.0,
+      "total_deductions": 33350.0,
+      "net_pay": 184650.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_074",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_075",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Priya Bandara",
+      "pay_period": "March 2024",
+      "gross_pay": 446000.0,
+      "total_deductions": 105200.0,
+      "net_pay": 340800.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_076",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_077",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_078",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Hannah Silva",
+      "pay_period": "February 2024",
+      "gross_pay": 4250.0,
+      "total_deductions": 700.0,
+      "net_pay": 3550.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_079",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Oliver Fernando",
+      "pay_period": "May 2024",
+      "gross_pay": 3200.0,
+      "total_deductions": 350.0,
+      "net_pay": 2850.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_080",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Ayesha Rajapaksa",
+      "pay_period": "December 2025",
+      "gross_pay": 5800.0,
+      "total_deductions": 600.0,
+      "net_pay": 5200.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_081",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Ruwan Patel",
+      "pay_period": "February 2024",
+      "gross_pay": 2300.0,
+      "total_deductions": 350.0,
+      "net_pay": 1950.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_082",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Hannah Jayasinghe",
+      "pay_period": "March 2024",
+      "gross_pay": 4750.0,
+      "total_deductions": 1300.0,
+      "net_pay": 3450.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_083",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Sanduni Taylor",
+      "pay_period": "October 2025",
+      "gross_pay": 3450.0,
+      "total_deductions": 900.0,
+      "net_pay": 2550.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_084",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Chamari De Mel",
+      "pay_period": "December 2024",
+      "gross_pay": 4600.0,
+      "total_deductions": 1200.0,
+      "net_pay": 3400.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_085",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_086",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Kasun Wickramasinghe",
+      "pay_period": "January 2025",
+      "gross_pay": 5500.0,
+      "total_deductions": 650.0,
+      "net_pay": 4850.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_087",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Priya De Mel",
+      "pay_period": "September 2024",
+      "gross_pay": 134500.0,
+      "total_deductions": 12350.0,
+      "net_pay": 122150.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_088",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_089",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_090",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Priya Bandara",
+      "pay_period": "February 2025",
+      "gross_pay": 174500.0,
+      "total_deductions": 43000.0,
+      "net_pay": 131500.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_091",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Sanduni De Mel",
+      "pay_period": "August 2025",
+      "gross_pay": 141500.0,
+      "total_deductions": 27836.04,
+      "net_pay": 113663.96,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_092",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Hannah Perera",
+      "pay_period": "January 2025",
+      "gross_pay": 3750.0,
+      "total_deductions": 746.87,
+      "net_pay": 3003.13,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_093",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Amal Perera",
+      "pay_period": "August 2024",
+      "gross_pay": 2000.0,
+      "total_deductions": 550.0,
+      "net_pay": 1450.0,
+      "currency": "GBP"
+    }
+  },
+  {
+    "id": "payslip_094",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null
+  },
+  {
+    "id": "payslip_095",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Dilani Patel",
+      "pay_period": "February 2024",
+      "gross_pay": 280500.0,
+      "total_deductions": 37550.0,
+      "net_pay": 242950.0,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_096",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Sanduni De Mel",
+      "pay_period": "December 2025",
+      "gross_pay": 109000.0,
+      "total_deductions": 29231.42,
+      "net_pay": 79768.58,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_097",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Imran Khan",
+      "pay_period": "February 2024",
+      "gross_pay": 434000.0,
+      "total_deductions": 91735.95,
+      "net_pay": 342264.05,
+      "currency": "LKR"
+    }
+  },
+  {
+    "id": "payslip_098",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Nimal Smith",
+      "pay_period": "September 2024",
+      "gross_pay": 4400.0,
+      "total_deductions": 700.0,
+      "net_pay": 3700.0,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "payslip_099",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Kasun Wickramasinghe",
+      "pay_period": "April 2024",
+      "gross_pay": 4500.0,
+      "total_deductions": 900.0,
+      "net_pay": 3600.0,
+      "currency": "USD"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+Invoice
+Currency: LKR
+Supplier: Riverside Catering
+Customer: Kandy Hardware Stores
+Date: 12 November 2024
+Invoice No: INV-2025-9200
+
+Printer paper (box)     8 x 8,750.00 = 70,000.00
+Courier delivery        8 x 32,850.00 = 262,800.00
+Consulting hours        4 x 53,950.00 = 215,800.00
+
+Subtotal: 548,600.00
+VAT (18%): 98,748.00
+Total: 647,348.00

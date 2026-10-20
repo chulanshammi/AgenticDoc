@@ -1,0 +1,13 @@
+Invoice
+Supplier: Greenline Cleaning Services
+Customer: Greenfield Foods PLC
+Issued: 2025-05-01
+Invoice #: INV-2025-3423
+
+Consulting hours        2 x 56,800.00 = 113,600.00
+Courier delivery        4 x 7,250.00 = 29,000.00
+Cloud hosting           5 x 40,600.00 = 203,000.00
+
+Subtotal: LKR 345,600.00
+VAT @ 18%: 62,208.00 LKR
+Grand total: 407,808.00 LKR

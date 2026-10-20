@@ -1,0 +1,13 @@
+Orient Print House
+Currency: LKR
+INVOICE
+Invoice #: INV-2024-8280
+Invoice date: 07-Sep-2024
+Bill to: Harbour View Hotels
+
+Consulting hours        9 x 10,900.00 = 98,100.00
+Laptop repair           10 x 45,200.00 = 452,000.00
+
+Total before VAT: 550,100.00
+VAT @ 18%: 99,018.00
+Amount due: 649,118.00

@@ -1,0 +1,13 @@
+Riverside Catering
+Currency: USD
+INVOICE
+Invoice number: INV-2025-0355
+Date: 8 July 2024
+Bill to: Harbour View Hotels
+
+Cloud hosting           1 x 380.00 = 380.00
+Printed brochures       8 x 880.00 = 7,040.00
+
+Total before VAT: 7,420.00
+VAT (15%): 1,113.00
+Grand total: 8,533.00

@@ -1,0 +1,13 @@
+Zenith Freight Ltd
+INVOICE
+Invoice number: SI-2025-8756
+Invoice date: 02/03/2024
+Bill to: Ceylon Spice Traders
+
+Consulting hours        3 x 9,400.00 = 28,200.00
+Printed brochures       9 x 31,450.00 = 283,050.00
+Cloud hosting           1 x 6,850.00 = 6,850.00
+
+Subtotal: Rs.318,100.00
+VAT @ 15%: 47,715.00 LKR
+Amount due: 3,65,565.00 LKR

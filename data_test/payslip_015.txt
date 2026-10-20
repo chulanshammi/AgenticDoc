@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: Lanka Tea Exports
+Staff member: Oliver Jayasinghe
+Pay period: September 2024
+
+Earnings .... Gross salary: 4,250.00
+Less ........ Deductions (EPF, tax): 894.71
+Paid ........ Net salary: 3,355.29

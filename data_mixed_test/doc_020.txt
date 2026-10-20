@@ -1,0 +1,13 @@
+TAX INVOICE
+From: Orient Print House
+Billed to: Harbour View Hotels
+Invoice No: BILL-2024-9912
+Issued: 2024-05-13
+
+Software licence        10 x 28,800.00 = 288,000.00
+Cleaning service        2 x 41,250.00 = 82,500.00
+Printer paper (box)     2 x 3,800.00 = 7,600.00
+
+Net amount: 3,78,100.00 LKR
+VAT @ 15%: 56,715.00 LKR
+Grand total: Rs.434,815.00

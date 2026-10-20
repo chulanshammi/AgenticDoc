@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - JULY 2024
+Employee: Ruwan Bandara
+Gross pay: 4,800.00 GBP
+Total deductions: GBP 1,250.00
+Net pay: 3,550.00 GBP

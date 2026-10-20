@@ -1,0 +1,13 @@
+Island Packaging Co
+Currency: GBP
+INVOICE
+Invoice No: BILL-2024-1670
+Invoice date: 20 November 2025
+Bill to: Brightway Logistics Ltd
+
+Printer paper (box)     10 x 885.00 = 8,850.00
+Cloud hosting           7 x 525.00 = 3,675.00
+
+Total before VAT: 12,525.00
+VAT @ 20%: 2,505.00
+Grand total: 15,030.00

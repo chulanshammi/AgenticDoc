@@ -1,0 +1,6 @@
+Kandy Hardware Stores
+PAYSLIP - 12/2024
+Employee: Chamari Smith
+Gross: £4,600.00
+Deductions: £800.00
+Net salary: £3,800.00

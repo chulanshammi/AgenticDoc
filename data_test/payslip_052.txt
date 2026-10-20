@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - May 2025
+Employee: Ayesha Rajapaksa
+Gross: 5,150.00 USD
+Deductions: $450.00
+Net pay: 4,700.00 USD

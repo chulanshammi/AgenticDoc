@@ -1,0 +1,7 @@
+Harbour View Hotels
+Currency: GBP
+PAYSLIP - Jun-2025
+Employee: Nimal Wickramasinghe
+Gross pay: 5,850.00
+Total deductions: 950.00
+Amount paid: 4,900.00

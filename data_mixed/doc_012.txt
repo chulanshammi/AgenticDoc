@@ -1,0 +1,13 @@
+Invoice
+Supplier: Zenith Freight Ltd
+Customer: Greenfield Foods PLC
+Invoice date: 12 March 2025
+Invoice #: BILL-2024-8289
+
+Courier delivery        3 x 32,700.00 = 98,100.00
+Cloud hosting           8 x 34,350.00 = 274,800.00
+Software licence        2 x 2,950.00 = 5,900.00
+
+Net amount: 378,800.00 LKR
+VAT (15%): 56,820.00 LKR
+Total due: 435,620.00 LKR

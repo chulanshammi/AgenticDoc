@@ -1,0 +1,13 @@
+Greenline Cleaning Services
+INVOICE
+Invoice No: BILL-2025-0793
+Date: 13-May-2025
+Bill to: Kandy Hardware Stores
+
+Laptop repair           5 x 550.00 = 2,750.00
+Cloud hosting           8 x 715.00 = 5,720.00
+Courier delivery        6 x 885.00 = 5,310.00
+
+Net amount: GBP 13,780.00
+VAT (20%): £2,756.00
+Total due: 16,536.00 GBP

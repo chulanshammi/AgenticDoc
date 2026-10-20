@@ -1,0 +1,92 @@
+import json
+from typing import Optional
+
+import ollama
+from pydantic import BaseModel, Field, ValidationError, model_validator
+
+MODEL = "qwen3.5:0.8b"  
+MAX_ATTEMPTS = 3
+
+
+# 1) The schema: what a valid result must look like.
+class Payslip(BaseModel):
+    employer_name: str = Field(min_length=1)
+    employee_name: str = Field(min_length=1)
+    pay_period: str = Field(min_length=1, description="e.g. 'March 2026'")
+    gross_pay: float = Field(gt=0)
+    total_deductions: float = Field(ge=0)
+    net_pay: float = Field(gt=0)
+    currency: Optional[str] = None
+
+    # 2) A business rule: the numbers must be consistent with each other.
+    @model_validator(mode="after")
+    def check_totals(self):
+        expected = round(self.gross_pay - self.total_deductions, 2)
+        if abs(expected - self.net_pay) > 0.01:
+            raise ValueError(
+                f"net_pay {self.net_pay} != gross_pay - total_deductions ({expected})"
+            )
+        return self
+
+
+SYSTEM_PROMPT = (
+    "You extract data from payslip text. "
+    "Return ONLY JSON matching the schema. "
+    "Use numbers without currency symbols or thousands separators. "
+    "If a value is not in the text, do not invent it."
+)
+
+
+def extract_payslip(text: str) -> Payslip:
+    messages = [
+        {"role": "system", "content": SYSTEM_PROMPT},
+        {"role": "user", "content": f"Payslip text:\n\n{text}"},
+    ]
+    last_error = None
+
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        client = ollama.Client(timeout=60)
+        response = client.chat(
+            model=MODEL,
+            messages=messages,
+            format=Payslip.model_json_schema(),  # constrains output to the schema's shape
+            think=False,
+            options={"temperature": 0, "num_predict": 400},
+        )
+        raw = response["message"]["content"]
+        print(f"\n--- attempt {attempt} raw output ---\n{raw}")
+
+        try:
+            return Payslip.model_validate_json(raw)
+        except ValidationError as e:
+            last_error = e
+            print(f"--- attempt {attempt} FAILED validation ---\n{e}")
+            # 3) Retry: show the model its own output and the exact error.
+            messages.append({"role": "assistant", "content": raw})
+            messages.append(
+                {
+                    "role": "user",
+                    "content": f"That output was invalid:\n{e}\nReturn corrected JSON only.",
+                }
+            )
+
+    # 4) Out of attempts: in the full system this goes to the human review queue.
+    raise RuntimeError(f"Escalate to human review. Last error:\n{last_error}")
+
+
+SAMPLE = """\
+ACME Textiles (Pvt) Ltd
+PAYSLIP - March 2026
+Employee: Nimal Perera
+Gross pay: 150k LKR
+Deductions (EPF, tax): 18,000.00 LKR
+Net pay: 132,000.00 LKR
+"""
+
+if __name__ == "__main__":
+    try:
+        result = extract_payslip(SAMPLE)
+        print("\nVALID RESULT:")
+        print(json.dumps(result.model_dump(), indent=2))
+    except RuntimeError as err:
+        print(f"\n{err}")

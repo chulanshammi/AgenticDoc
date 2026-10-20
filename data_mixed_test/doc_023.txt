@@ -1,0 +1,12 @@
+Invoice
+Supplier: Orient Print House
+Customer: Greenfield Foods PLC
+Invoice date: 09/08/2025
+Invoice #: SI-2024-8219
+
+Cleaning service        2 x 60.00 = 120.00
+Laptop repair           10 x 105.00 = 1,050.00
+
+Net amount: USD 1,170.00
+VAT (15%): $175.50
+Total due: 1,345.50 USD

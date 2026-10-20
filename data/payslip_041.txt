@@ -1,0 +1,7 @@
+CEYLON SPICE TRADERS
+Currency: GBP
+Monthly salary statement
+Period: OCTOBER 2025
+Gross pay                 4,850.00
+Total deductions          800.00
+Amount paid               4,050.00

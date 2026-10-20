@@ -1,0 +1,12 @@
+INVOICE
+Invoice number: BILL-2024-3503
+Issued: 22 September 2025
+Bill to: Kandy Hardware Stores
+
+Cloud hosting           4 x 200.00 = 800.00
+Courier delivery        7 x 610.00 = 4,270.00
+Consulting hours        8 x 340.00 = 2,720.00
+
+Net amount: $7,790.00
+VAT @ 15%: 1,168.50 USD
+Total: 8,958.50 USD

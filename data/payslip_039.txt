@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - 06/2025
+Employee: Oliver Bandara
+Total earnings: $5,500.00
+Total deductions: USD 803.87
+Net salary: 4,696.13 USD

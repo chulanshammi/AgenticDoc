@@ -1,0 +1,13 @@
+Invoice
+Supplier: Riverside Catering
+Customer: Ceylon Spice Traders
+Invoice date: 2025-09-13
+Invoice #: SI-2025-8921
+
+Consulting hours        9 x 190.00 = 1,710.00
+Laptop repair           6 x 170.00 = 1,020.00
+Printed brochures       3 x 705.00 = 2,115.00
+
+Net amount: GBP 4,845.00
+VAT (20%): 969.00 GBP
+Total due: 5,814.00 GBP

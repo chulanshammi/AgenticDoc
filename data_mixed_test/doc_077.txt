@@ -1,0 +1,12 @@
+Invoice
+Supplier: Colombo Office Supplies
+Customer: Kandy Hardware Stores
+Invoice date: 27 July 2025
+Invoice No: BILL-2024-3994
+
+Printed brochures       7 x 260.00 = 1,820.00
+Courier delivery        2 x 190.00 = 380.00
+
+Subtotal: 2,200.00 USD
+VAT @ 15%: 330.00 USD
+Total due: 2,530.00 USD

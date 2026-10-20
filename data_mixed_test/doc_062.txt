@@ -1,0 +1,12 @@
+Orient Print House
+INVOICE
+Invoice #: INV-2024-1104
+Issued: 17-Jun-2024
+Bill to: Kandy Hardware Stores
+
+Software licence        3 x 37,200.00 = 111,600.00
+Laptop repair           9 x 29,550.00 = 265,950.00
+
+Total before VAT: 377,550.00 LKR
+VAT @ 15%: 56,632.50 LKR
+Grand total: 434,182.50 LKR

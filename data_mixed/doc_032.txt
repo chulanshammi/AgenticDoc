@@ -1,0 +1,12 @@
+Invoice
+Supplier: Metro IT Services Ltd
+Customer: Ceylon Spice Traders
+Date: 05/03/2024
+Invoice No: SI-2025-1214
+
+Cleaning service        8 x 47,100.00 = 376,800.00
+Courier delivery        6 x 20,850.00 = 125,100.00
+
+Subtotal: 5,01,900.00 LKR
+VAT @ 18%: 90,342.00 LKR
+Grand total: 592,242.00 LKR

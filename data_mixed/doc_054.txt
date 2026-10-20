@@ -1,0 +1,13 @@
+Zenith Freight Ltd
+INVOICE
+Inv. Number: SI-2025-6816
+Invoice date: 14/06/2024
+Bill to: Kandy Hardware Stores
+
+Software licence        7 x 145.00 = 1,015.00
+Cleaning service        2 x 855.00 = 1,710.00
+Printed brochures       9 x 295.00 = 2,655.00
+
+Subtotal: USD 5,380.00
+VAT (15%): 807.00 USD
+Grand total: $6,187.00

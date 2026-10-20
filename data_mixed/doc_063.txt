@@ -1,0 +1,12 @@
+Invoice
+Supplier: Orient Print House
+Customer: Kandy Hardware Stores
+Date: 2025-04-08
+Invoice #: INV-2024-5599
+
+Cleaning service        7 x 35,600.00 = 249,200.00
+Software licence        3 x 55,900.00 = 167,700.00
+
+Net amount: 416,900.00 LKR
+VAT @ 18%: Rs.75,042.00
+Total: Rs.493,942.00

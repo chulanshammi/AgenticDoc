@@ -1,0 +1,14 @@
+Invoice
+Currency: LKR
+Supplier: Sunrise Stationers
+Customer: Harbour View Hotels
+Date: 01/05/2024
+Invoice No: BILL-2024-2193
+
+Software licence        7 x 34,150.00 = 239,050.00
+Printer paper (box)     1 x 22,000.00 = 22,000.00
+Courier delivery        3 x 14,450.00 = 43,350.00
+
+Subtotal: 304,400.00
+VAT (15%): 45,660.00
+Total: 348,560.00

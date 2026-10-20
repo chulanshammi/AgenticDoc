@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - Feb-2024
+Employee: Sarah Taylor
+Total earnings: 3,15,500.00 LKR
+Deductions (EPF, tax): 83,700.00 LKR
+Amount paid: Rs.231,800.00

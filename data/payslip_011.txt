@@ -1,0 +1,8 @@
+CEYLON SPICE TRADERS
+Currency: LKR
+Monthly salary statement
+Period: MARCH 2025
+Name: Sanduni Bandara
+Total earnings            322,000.00
+Tax & contributions       77,750.00
+Amount paid               244,250.00

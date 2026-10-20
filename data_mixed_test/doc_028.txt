@@ -1,0 +1,13 @@
+Invoice
+Supplier: Riverside Catering
+Customer: ACME Textiles (Pvt) Ltd
+Invoice date: 03-Nov-2024
+Invoice number: BILL-2024-0660
+
+Cleaning service        3 x 58,650.00 = 175,950.00
+Printed brochures       6 x 12,250.00 = 73,500.00
+Cloud hosting           9 x 32,250.00 = 290,250.00
+
+Total before VAT: Rs.539,700.00
+VAT (18%): 97,146.00 LKR
+Grand total: LKR 636,846.00

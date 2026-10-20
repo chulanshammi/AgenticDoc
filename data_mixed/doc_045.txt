@@ -1,0 +1,12 @@
+TAX INVOICE
+From: Greenline Cleaning Services
+Billed to: Ceylon Spice Traders
+Inv. Number: INV-2024-7238
+Invoice date: 10-Oct-2025
+
+Courier delivery        5 x 605.00 = 3,025.00
+Software licence        5 x 870.00 = 4,350.00
+
+Net amount: 7,375.00 USD
+VAT @ 10%: $737.50
+Total due: 8,112.50 USD

@@ -1,0 +1,13 @@
+Invoice
+Currency: LKR
+Supplier: Riverside Catering
+Customer: ACME Textiles (Pvt) Ltd
+Date: 2024-01-25
+Invoice number: BILL-2024-7403
+
+Software licence        3 x 24,150.00 = 72,450.00
+Cleaning service        3 x 50,650.00 = 151,950.00
+
+Subtotal: 224,400.00
+VAT @ 15%: 33,660.00
+Amount due: 258,060.00

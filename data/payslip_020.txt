@@ -1,0 +1,7 @@
+Kandy Hardware Stores
+Currency: LKR
+PAYSLIP - MAY 2025
+Employee: Dilani Perera
+Gross salary: 263,000.00
+Deductions (EPF, tax): 32,100.00
+Net salary: 230,900.00

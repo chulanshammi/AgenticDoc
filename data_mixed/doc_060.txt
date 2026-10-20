@@ -1,0 +1,14 @@
+Invoice
+Currency: LKR
+Supplier: Orient Print House
+Customer: Nova Digital Solutions
+Issued: 5 October 2024
+Invoice #: INV-2025-3233
+
+Cloud hosting           2 x 56,300.00 = 112,600.00
+Printer paper (box)     9 x 21,850.00 = 196,650.00
+Cleaning service        6 x 37,950.00 = 227,700.00
+
+Net amount: 536,950.00
+VAT @ 18%: 96,651.00
+Grand total: 633,601.00

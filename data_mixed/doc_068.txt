@@ -1,0 +1,14 @@
+Greenline Cleaning Services
+Currency: GBP
+INVOICE
+Inv. Number: BILL-2024-6398
+Invoice date: 21-Jan-2025
+Bill to: Brightway Logistics Ltd
+
+Printer paper (box)     4 x 750.00 = 3,000.00
+Cleaning service        7 x 255.00 = 1,785.00
+Cloud hosting           2 x 690.00 = 1,380.00
+
+Total before VAT: 6,165.00
+VAT (20%): 1,233.00
+Total: 7,398.00

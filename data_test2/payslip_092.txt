@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: Harbour View Hotels
+Staff member: Chamari Bandara
+Pay period: February 2025
+
+Earnings .... Total earnings: 2,400.00
+Less ........ Deductions (EPF, tax): 562.08
+Paid ........ Amount paid: 1,837.92

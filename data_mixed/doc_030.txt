@@ -1,0 +1,13 @@
+Invoice
+Supplier: Orient Print House
+Customer: Nova Digital Solutions
+Invoice date: 08/12/2025
+Inv. Number: INV-2025-3631
+
+Printer paper (box)     2 x 325.00 = 650.00
+Cleaning service        7 x 645.00 = 4,515.00
+Consulting hours        9 x 325.00 = 2,925.00
+
+Total before VAT: 8,090.00 GBP
+VAT (20%): 1,618.00 GBP
+Amount due: 9,708.00 GBP

@@ -1,0 +1,6 @@
+Thames Bridge Accounting
+PAYSLIP - 12/2024
+Employee: Oliver Khan
+Gross: USD 4,950.00
+Total deductions: 505.61 USD
+Net salary: 4,444.39 USD

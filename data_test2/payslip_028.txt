@@ -1,0 +1,6 @@
+ACME Textiles (Pvt) Ltd
+PAYSLIP - October 2024
+Employee: Kasun Fernando
+Gross: GBP 4,250.00
+Deductions (EPF, tax): GBP 1,034.97
+Net salary: 3,223.03 GBP

@@ -1,0 +1,13 @@
+TAX INVOICE
+From: Zenith Freight Ltd
+Billed to: Nova Digital Solutions
+Invoice number: SI-2024-1480
+Issued: 19 August 2025
+
+Consulting hours        5 x 30,100.00 = 150,500.00
+Courier delivery        10 x 7,750.00 = 77,500.00
+Printed brochures       6 x 53,950.00 = 323,700.00
+
+Total before VAT: 551,700.00 LKR
+VAT (18%): 99,306.00 LKR
+Total due: Rs.651,406.00

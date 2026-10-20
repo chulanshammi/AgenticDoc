@@ -1,0 +1,8 @@
+PAY ADVICE
+Company: ACME Textiles (Pvt) Ltd
+Staff member: Sarah Perera
+Pay period: Jun-2024
+
+Earnings .... Gross: 5,950.00 USD
+Less ........ Deductions (EPF, tax): USD 940.98
+Paid ........ Amount paid: USD 5,009.02

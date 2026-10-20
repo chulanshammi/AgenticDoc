@@ -1,0 +1,7 @@
+CEYLON SPICE TRADERS
+Monthly salary statement
+Period: Aug-2025
+Name: Oliver Patel
+Gross pay                 GBP 1,900.00
+Total deductions          GBP 200.00
+Take-home pay             1,700.00 GBP

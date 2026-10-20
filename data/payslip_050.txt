@@ -1,0 +1,8 @@
+GREENFIELD FOODS PLC
+Currency: GBP
+Monthly salary statement
+Period: 05/2025
+Name: Oliver Taylor
+Gross pay                 4,800.00
+Deductions                617.98
+Amount paid               4,217.02

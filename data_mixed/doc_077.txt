@@ -1,0 +1,12 @@
+TAX INVOICE
+From: Metro IT Services Ltd
+Billed to: Nova Digital Solutions
+Inv. Number: SI-2025-4950
+Invoice date: 26-Apr-2025
+
+Printer paper (box)     1 x 840.00 = 840.00
+Software licence        10 x 355.00 = 3,550.00
+
+Subtotal: 4,390.00 USD
+VAT (10%): 439.00 USD
+Total: 4,829.00 USD

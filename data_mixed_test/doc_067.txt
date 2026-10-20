@@ -1,0 +1,13 @@
+Invoice
+Currency: GBP
+Supplier: Sunrise Stationers
+Customer: Lanka Tea Exports
+Issued: 11-Jan-2024
+Invoice #: SI-2024-0565
+
+Printed brochures       8 x 780.00 = 6,240.00
+Printer paper (box)     8 x 315.00 = 2,520.00
+
+Net amount: 8,760.00
+VAT @ 20%: 1,752.00
+Total due: 10,512.00

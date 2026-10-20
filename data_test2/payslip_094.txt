@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - 02/2024
+Employee: Priya Wickramasinghe
+Gross: 4,900.00 GBP
+Deductions: £1,100.00
+Take-home pay: 3,800.00 GBP

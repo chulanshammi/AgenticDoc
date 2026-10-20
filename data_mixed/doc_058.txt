@@ -1,0 +1,13 @@
+Invoice
+Currency: LKR
+Supplier: Riverside Catering
+Customer: Greenfield Foods PLC
+Invoice date: 2024-05-07
+Inv. Number: SI-2024-0126
+
+Laptop repair           2 x 31,000.00 = 62,000.00
+Courier delivery        10 x 51,800.00 = 518,000.00
+
+Net amount: 580,000.00
+VAT (15%): 87,000.00
+Total: 667,000.00

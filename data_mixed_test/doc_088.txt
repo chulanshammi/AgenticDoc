@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: GBP
+Company: Ceylon Spice Traders
+Staff member: Kasun Wickramasinghe
+Pay period: 02/2024
+
+Earnings .... Total earnings: 2,450.00
+Less ........ Deductions (EPF, tax): 600.00
+Paid ........ Net salary: 1,850.00

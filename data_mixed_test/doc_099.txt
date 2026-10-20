@@ -1,0 +1,13 @@
+TAX INVOICE
+From: Orient Print House
+Billed to: Thames Bridge Accounting
+Invoice number: BILL-2025-1115
+Issued: 4 February 2024
+
+Printer paper (box)     4 x 4,950.00 = 19,800.00
+Courier delivery        9 x 27,450.00 = 247,050.00
+Laptop repair           1 x 2,800.00 = 2,800.00
+
+Total before VAT: 2,69,650.00 LKR
+VAT (18%): LKR 48,537.00
+Amount due: 3,18,187.00 LKR

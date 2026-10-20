@@ -1,0 +1,14 @@
+TAX INVOICE
+Currency: LKR
+From: Zenith Freight Ltd
+Billed to: Nova Digital Solutions
+Invoice No: BILL-2025-9355
+Date: 23/05/2024
+
+Consulting hours        4 x 26,550.00 = 106,200.00
+Software licence        1 x 6,200.00 = 6,200.00
+Cleaning service        5 x 51,150.00 = 255,750.00
+
+Subtotal: 368,150.00
+VAT @ 15%: 55,222.50
+Total due: 423,372.50

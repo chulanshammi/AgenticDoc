@@ -1,0 +1,7 @@
+Lanka Tea Exports
+Currency: LKR
+PAYSLIP - 05/2024
+Employee: Imran Jayasinghe
+Gross pay: 155,000.00
+Total deductions: 35,073.26
+Take-home pay: 119,926.74

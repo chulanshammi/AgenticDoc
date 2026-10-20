@@ -1,0 +1,8 @@
+NOVA DIGITAL SOLUTIONS
+Currency: GBP
+Monthly salary statement
+Period: 02/2024
+Name: Chamari Rajapaksa
+Gross salary              5,500.00
+Deductions (EPF, tax)     1,026.73
+Net pay                   4,473.27

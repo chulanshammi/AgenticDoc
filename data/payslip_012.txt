@@ -1,0 +1,7 @@
+ACME TEXTILES (PVT) LTD
+Currency: LKR
+Monthly salary statement
+Period: 11/2024
+Gross salary              286,000.00
+Tax & contributions       64,533.82
+Net salary                221,466.18

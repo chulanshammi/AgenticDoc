@@ -1,0 +1,12 @@
+TAX INVOICE
+From: Sunrise Stationers
+Billed to: Harbour View Hotels
+Invoice #: SI-2024-4006
+Date: 11 April 2025
+
+Printed brochures       7 x 700.00 = 4,900.00
+Cloud hosting           6 x 440.00 = 2,640.00
+
+Total before VAT: 7,540.00 USD
+VAT (10%): USD 754.00
+Total: USD 8,294.00

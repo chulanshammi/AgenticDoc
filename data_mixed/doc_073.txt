@@ -1,0 +1,12 @@
+Invoice
+Supplier: Riverside Catering
+Customer: ACME Textiles (Pvt) Ltd
+Invoice date: 17-Aug-2024
+Invoice No: INV-2024-0425
+
+Software licence        6 x 585.00 = 3,510.00
+Cloud hosting           2 x 750.00 = 1,500.00
+
+Net amount: 5,010.00 USD
+VAT (10%): $501.00
+Grand total: $5,511.00

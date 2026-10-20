@@ -1,0 +1,8 @@
+PAY ADVICE
+Company: ACME Textiles (Pvt) Ltd
+Staff member: Amal Patel
+Pay period: 06/2025
+
+Earnings .... Gross salary: USD 2,300.00
+Less ........ Deductions (EPF, tax): 300.00 USD
+Paid ........ Net salary: USD 2,000.00

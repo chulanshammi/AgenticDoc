@@ -1,0 +1,13 @@
+Invoice
+Supplier: Sunrise Stationers
+Customer: Thames Bridge Accounting
+Issued: 2024-05-13
+Inv. Number: BILL-2025-4770
+
+Courier delivery        10 x 155.00 = 1,550.00
+Printed brochures       3 x 105.00 = 315.00
+Cleaning service        2 x 235.00 = 470.00
+
+Subtotal: 2,335.00 GBP
+VAT @ 20%: GBP 467.00
+Total: 2,802.00 GBP

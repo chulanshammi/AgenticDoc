@@ -1,0 +1,12 @@
+Invoice
+Supplier: Sunrise Stationers
+Customer: Lanka Tea Exports
+Invoice date: 04-Jun-2024
+Inv. Number: SI-2024-5483
+
+Cloud hosting           4 x 580.00 = 2,320.00
+Printer paper (box)     8 x 690.00 = 5,520.00
+
+Total before VAT: £7,840.00
+VAT (20%): 1,568.00 GBP
+Total due: 9,412.00 GBP

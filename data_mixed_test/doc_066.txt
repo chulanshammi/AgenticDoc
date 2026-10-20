@@ -1,0 +1,11 @@
+TAX INVOICE
+Billed to: Ceylon Spice Traders
+Inv. Number: SI-2025-4996
+Date: 2025-04-09
+
+Software licence        9 x 195.00 = 1,755.00
+Laptop repair           6 x 295.00 = 1,770.00
+
+Net amount: $3,525.00
+VAT (15%): 528.75 USD
+Total: 4,053.75 USD

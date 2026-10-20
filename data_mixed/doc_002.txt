@@ -1,0 +1,13 @@
+Greenline Cleaning Services
+INVOICE
+Invoice #: SI-2025-9126
+Date: 11 November 2024
+Bill to: Lanka Tea Exports
+
+Software licence        3 x 490.00 = 1,470.00
+Laptop repair           6 x 285.00 = 1,710.00
+Cloud hosting           5 x 890.00 = 4,450.00
+
+Net amount: GBP 7,630.00
+VAT (20%): GBP 1,526.00
+Grand total: 9,153.50 GBP

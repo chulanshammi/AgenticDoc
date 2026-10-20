@@ -1,0 +1,13 @@
+Orient Print House
+INVOICE
+Invoice number: INV-2025-3442
+Issued: 04/11/2024
+Bill to: Brightway Logistics Ltd
+
+Printed brochures       2 x 115.00 = 230.00
+Cleaning service        3 x 715.00 = 2,145.00
+Printer paper (box)     1 x 490.00 = 490.00
+
+Total before VAT: 2,865.00 USD
+VAT @ 10%: $286.50
+Total due: $3,151.50

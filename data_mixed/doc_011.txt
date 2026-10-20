@@ -1,0 +1,8 @@
+THAMES BRIDGE ACCOUNTING
+Currency: LKR
+Monthly salary statement
+Period: September 2024
+Name: Dilani Perera
+Gross salary              115,000.00
+Total deductions          22,885.81
+Net pay                   92,114.19

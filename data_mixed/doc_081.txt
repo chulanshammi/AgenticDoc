@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: Nova Digital Solutions
+Staff member: Oliver Khan
+Pay period: Mar-2024
+
+Earnings .... Gross: 5,250.00
+Less ........ Tax & contributions: 850.00
+Paid ........ Net salary: 4,400.00

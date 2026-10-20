@@ -1,0 +1,8 @@
+THAMES BRIDGE ACCOUNTING
+Currency: LKR
+Monthly salary statement
+Period: FEBRUARY 2024
+Name: Dilani Patel
+Gross                     280,500.00
+Deductions (EPF, tax)     37,550.00
+Take-home pay             242,950.00

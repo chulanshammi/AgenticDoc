@@ -1,0 +1,14 @@
+Island Packaging Co
+Currency: USD
+INVOICE
+Inv. Number: BILL-2025-4484
+Invoice date: 2024-11-18
+Bill to: Thames Bridge Accounting
+
+Printer paper (box)     6 x 405.00 = 2,430.00
+Software licence        5 x 240.00 = 1,200.00
+Consulting hours        6 x 110.00 = 660.00
+
+Total before VAT: 4,290.00
+VAT (10%): 429.00
+Total: 4,719.00

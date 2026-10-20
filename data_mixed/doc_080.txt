@@ -1,0 +1,12 @@
+Currency: USD
+INVOICE
+Inv. Number: INV-2024-5940
+Issued: 13-Feb-2025
+Bill to: Greenfield Foods PLC
+
+Consulting hours        3 x 355.00 = 1,065.00
+Courier delivery        6 x 535.00 = 3,210.00
+
+Total before VAT: 4,275.00
+VAT (15%): 641.25
+Total: 4,916.25

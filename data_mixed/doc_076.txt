@@ -1,0 +1,12 @@
+Metro IT Services Ltd
+INVOICE
+Invoice #: SI-2024-4106
+Issued: 18/11/2024
+Bill to: Kandy Hardware Stores
+
+Consulting hours        3 x 405.00 = 1,215.00
+Cleaning service        3 x 225.00 = 675.00
+
+Net amount: USD 1,890.00
+VAT @ 15%: $283.50
+Total: 2,173.50 USD

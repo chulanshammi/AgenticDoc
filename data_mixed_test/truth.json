@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "doc_000",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Metro IT Services Ltd",
+      "invoice_number": "BILL-2024-6128",
+      "invoice_date": "2025-11-07",
+      "subtotal": 494800.0,
+      "vat": 74220.0,
+      "total": 569020.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_001",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "INV-2025-2116",
+      "invoice_date": "2024-12-06",
+      "subtotal": 2480.0,
+      "vat": 496.0,
+      "total": 2976.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_002",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Kasun Smith",
+      "pay_period": "November 2024",
+      "gross_pay": 238500.0,
+      "total_deductions": 48550.0,
+      "net_pay": 189950.0,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_003",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Ayesha Taylor",
+      "pay_period": "August 2024",
+      "gross_pay": 447500.0,
+      "total_deductions": 89470.29,
+      "net_pay": 358029.71,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_004",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_005",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "SI-2025-7817",
+      "invoice_date": "2024-05-14",
+      "subtotal": 5400.0,
+      "vat": 810.0,
+      "total": 6210.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_006",
+    "kind": "missing_supplier",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_007",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_008",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_009",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "SI-2025-2777",
+      "invoice_date": "2024-09-08",
+      "subtotal": 479650.0,
+      "vat": 71947.5,
+      "total": 551597.5,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_010",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "SI-2024-6844",
+      "invoice_date": "2024-04-04",
+      "subtotal": 2915.0,
+      "vat": 437.25,
+      "total": 3352.25,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_011",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "BILL-2024-9966",
+      "invoice_date": "2024-06-25",
+      "subtotal": 149700.0,
+      "vat": 26946.0,
+      "total": 176646.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_012",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Sarah Perera",
+      "pay_period": "April 2025",
+      "gross_pay": 2600.0,
+      "total_deductions": 615.04,
+      "net_pay": 1984.96,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_013",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "INV-2025-5482",
+      "invoice_date": "2025-01-13",
+      "subtotal": 363500.0,
+      "vat": 54525.0,
+      "total": 418025.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_014",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "INV-2025-3003",
+      "invoice_date": "2025-03-01",
+      "subtotal": 2700.0,
+      "vat": 270.0,
+      "total": 2970.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_015",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Island Packaging Co",
+      "invoice_number": "BILL-2024-2825",
+      "invoice_date": "2025-03-21",
+      "subtotal": 6980.0,
+      "vat": 1047.0,
+      "total": 8027.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_016",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Ruwan Khan",
+      "pay_period": "October 2025",
+      "gross_pay": 3000.0,
+      "total_deductions": 298.22,
+      "net_pay": 2701.78,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_017",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_018",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "INV-2024-0353",
+      "invoice_date": "2024-03-07",
+      "subtotal": 56600.0,
+      "vat": 8490.0,
+      "total": 65090.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_019",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Priya Smith",
+      "pay_period": "September 2025",
+      "gross_pay": 6100.0,
+      "total_deductions": 808.64,
+      "net_pay": 5291.36,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_020",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "BILL-2024-9912",
+      "invoice_date": "2024-05-13",
+      "subtotal": 378100.0,
+      "vat": 56715.0,
+      "total": 434815.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_021",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_022",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Amal Rajapaksa",
+      "pay_period": "February 2024",
+      "gross_pay": 3600.0,
+      "total_deductions": 400.0,
+      "net_pay": 3200.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_023",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "SI-2024-8219",
+      "invoice_date": "2025-08-09",
+      "subtotal": 1170.0,
+      "vat": 175.5,
+      "total": 1345.5,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_024",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Hannah Bandara",
+      "pay_period": "February 2024",
+      "gross_pay": 4750.0,
+      "total_deductions": 1122.29,
+      "net_pay": 3627.71,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_025",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Imran Jayasinghe",
+      "pay_period": "May 2024",
+      "gross_pay": 155000.0,
+      "total_deductions": 35073.26,
+      "net_pay": 119926.74,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_026",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_027",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Sarah Bandara",
+      "pay_period": "November 2024",
+      "gross_pay": 401500.0,
+      "total_deductions": 74150.0,
+      "net_pay": 327350.0,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_028",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Riverside Catering",
+      "invoice_number": "BILL-2024-0660",
+      "invoice_date": "2024-11-03",
+      "subtotal": 539700.0,
+      "vat": 97146.0,
+      "total": 636846.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_029",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_030",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Ruwan Smith",
+      "pay_period": "March 2024",
+      "gross_pay": 2800.0,
+      "total_deductions": 384.81,
+      "net_pay": 2415.19,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_031",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Riverside Catering",
+      "invoice_number": "INV-2025-9200",
+      "invoice_date": "2024-11-12",
+      "subtotal": 548600.0,
+      "vat": 98748.0,
+      "total": 647348.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_032",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "SI-2024-0534",
+      "invoice_date": "2024-10-13",
+      "subtotal": 3945.0,
+      "vat": 591.75,
+      "total": 4536.75,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_033",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "BILL-2025-7855",
+      "invoice_date": "2024-09-06",
+      "subtotal": 4330.0,
+      "vat": 649.5,
+      "total": 4979.5,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_034",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Tharindu Silva",
+      "pay_period": "May 2025",
+      "gross_pay": 83000.0,
+      "total_deductions": 9250.0,
+      "net_pay": 73750.0,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_035",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "SI-2024-4006",
+      "invoice_date": "2025-04-11",
+      "subtotal": 7540.0,
+      "vat": 754.0,
+      "total": 8294.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_036",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Priya Khan",
+      "pay_period": "September 2024",
+      "gross_pay": 414000.0,
+      "total_deductions": 79170.57,
+      "net_pay": 334829.43,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_037",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_038",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_039",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_040",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "INV-2025-8781",
+      "invoice_date": "2024-06-04",
+      "subtotal": 14545.0,
+      "vat": 2909.0,
+      "total": 17454.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_041",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Ayesha Taylor",
+      "pay_period": "May 2025",
+      "gross_pay": 388500.0,
+      "total_deductions": 95405.82,
+      "net_pay": 293094.18,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_042",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_043",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "SI-2024-1023",
+      "invoice_date": "2024-05-14",
+      "subtotal": 150400.0,
+      "vat": 22560.0,
+      "total": 172960.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_044",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Dilani De Mel",
+      "pay_period": "April 2024",
+      "gross_pay": 5050.0,
+      "total_deductions": 850.0,
+      "net_pay": 4200.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_045",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "INV-2024-1221",
+      "invoice_date": "2024-02-01",
+      "subtotal": 46300.0,
+      "vat": 8334.0,
+      "total": 54634.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_046",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "INV-2025-9071",
+      "invoice_date": "2025-12-07",
+      "subtotal": 176500.0,
+      "vat": 26475.0,
+      "total": 202975.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_047",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Chamari Fernando",
+      "pay_period": "October 2025",
+      "gross_pay": 203500.0,
+      "total_deductions": 24781.12,
+      "net_pay": 178718.88,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_048",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "BILL-2025-4770",
+      "invoice_date": "2024-05-13",
+      "subtotal": 2335.0,
+      "vat": 467.0,
+      "total": 2802.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_049",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Metro IT Services Ltd",
+      "invoice_number": "SI-2025-4213",
+      "invoice_date": "2025-03-07",
+      "subtotal": 6215.0,
+      "vat": 1243.0,
+      "total": 7458.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_050",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_051",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_052",
+    "kind": "missing_employee",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_053",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_054",
+    "kind": "missing_supplier",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_055",
+    "kind": "missing_supplier",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_056",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "SI-2024-0743",
+      "invoice_date": "2025-03-06",
+      "subtotal": 543550.0,
+      "vat": 97839.0,
+      "total": 641389.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_057",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Riverside Catering",
+      "invoice_number": "BILL-2024-7403",
+      "invoice_date": "2024-01-25",
+      "subtotal": 224400.0,
+      "vat": 33660.0,
+      "total": 258060.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_058",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Ruwan Khan",
+      "pay_period": "August 2024",
+      "gross_pay": 4600.0,
+      "total_deductions": 889.1,
+      "net_pay": 3710.9,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_059",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_060",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_061",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_062",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "INV-2024-1104",
+      "invoice_date": "2024-06-17",
+      "subtotal": 377550.0,
+      "vat": 56632.5,
+      "total": 434182.5,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_063",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Chamari Patel",
+      "pay_period": "February 2024",
+      "gross_pay": 2300.0,
+      "total_deductions": 350.0,
+      "net_pay": 1950.0,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_064",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_065",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "BILL-2024-9755",
+      "invoice_date": "2024-06-15",
+      "subtotal": 250.0,
+      "vat": 25.0,
+      "total": 275.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_066",
+    "kind": "missing_supplier",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_067",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "SI-2024-0565",
+      "invoice_date": "2024-01-11",
+      "subtotal": 8760.0,
+      "vat": 1752.0,
+      "total": 10512.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_068",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_069",
+    "kind": "missing_supplier",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_070",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_071",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Chamari Fernando",
+      "pay_period": "October 2024",
+      "gross_pay": 3650.0,
+      "total_deductions": 415.58,
+      "net_pay": 3234.42,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_072",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Hannah Khan",
+      "pay_period": "November 2025",
+      "gross_pay": 355000.0,
+      "total_deductions": 73300.0,
+      "net_pay": 281700.0,
+      "currency": "LKR"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_073",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Nimal Smith",
+      "pay_period": "March 2024",
+      "gross_pay": 5450.0,
+      "total_deductions": 500.0,
+      "net_pay": 4950.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_074",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_075",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_076",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Island Packaging Co",
+      "invoice_number": "BILL-2025-4484",
+      "invoice_date": "2024-11-18",
+      "subtotal": 4290.0,
+      "vat": 429.0,
+      "total": 4719.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_077",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Colombo Office Supplies",
+      "invoice_number": "BILL-2024-3994",
+      "invoice_date": "2025-07-27",
+      "subtotal": 2200.0,
+      "vat": 330.0,
+      "total": 2530.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_078",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_079",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Riverside Catering",
+      "invoice_number": "INV-2025-0355",
+      "invoice_date": "2024-07-08",
+      "subtotal": 7420.0,
+      "vat": 1113.0,
+      "total": 8533.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_080",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Sunrise Stationers",
+      "invoice_number": "INV-2025-4096",
+      "invoice_date": "2025-07-13",
+      "subtotal": 1750.0,
+      "vat": 350.0,
+      "total": 2100.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_081",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Zenith Freight Ltd",
+      "invoice_number": "BILL-2025-9355",
+      "invoice_date": "2024-05-23",
+      "subtotal": 368150.0,
+      "vat": 55222.5,
+      "total": 423372.5,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_082",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_083",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "INV-2025-7892",
+      "invoice_date": "2024-06-14",
+      "subtotal": 7775.0,
+      "vat": 1555.0,
+      "total": 9330.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_084",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Chamari Jayasinghe",
+      "pay_period": "July 2024",
+      "gross_pay": 2250.0,
+      "total_deductions": 350.0,
+      "net_pay": 1900.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_085",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "SI-2024-8469",
+      "invoice_date": "2024-10-22",
+      "subtotal": 2260.0,
+      "vat": 226.0,
+      "total": 2486.0,
+      "currency": "USD"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_086",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_087",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_088",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Kasun Wickramasinghe",
+      "pay_period": "February 2024",
+      "gross_pay": 2450.0,
+      "total_deductions": 600.0,
+      "net_pay": 1850.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_089",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_090",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "BILL-2025-4914",
+      "invoice_date": "2024-03-08",
+      "subtotal": 2125.0,
+      "vat": 425.0,
+      "total": 2550.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_091",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Greenline Cleaning Services",
+      "invoice_number": "BILL-2025-0793",
+      "invoice_date": "2025-05-13",
+      "subtotal": 13780.0,
+      "vat": 2756.0,
+      "total": 16536.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_092",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "INV-2025-4864",
+      "invoice_date": "2024-10-02",
+      "subtotal": 6535.0,
+      "vat": 1307.0,
+      "total": 7842.0,
+      "currency": "GBP"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_093",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_094",
+    "kind": "other",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "other"
+  },
+  {
+    "id": "doc_095",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Ayesha Jayasinghe",
+      "pay_period": "January 2025",
+      "gross_pay": 3050.0,
+      "total_deductions": 250.0,
+      "net_pay": 2800.0,
+      "currency": "GBP"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_096",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Island Packaging Co",
+      "invoice_number": "INV-2025-8685",
+      "invoice_date": "2024-04-17",
+      "subtotal": 554500.0,
+      "vat": 83175.0,
+      "total": 637675.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_097",
+    "kind": "inconsistent",
+    "expect_escalation": true,
+    "expected": null,
+    "doc_type": "invoice"
+  },
+  {
+    "id": "doc_098",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Priya Silva",
+      "pay_period": "November 2025",
+      "gross_pay": 2950.0,
+      "total_deductions": 573.38,
+      "net_pay": 2376.62,
+      "currency": "USD"
+    },
+    "doc_type": "payslip"
+  },
+  {
+    "id": "doc_099",
+    "kind": "normal",
+    "expect_escalation": false,
+    "expected": {
+      "supplier_name": "Orient Print House",
+      "invoice_number": "BILL-2025-1115",
+      "invoice_date": "2024-02-04",
+      "subtotal": 269650.0,
+      "vat": 48537.0,
+      "total": 318187.0,
+      "currency": "LKR"
+    },
+    "doc_type": "invoice"
+  }
+]

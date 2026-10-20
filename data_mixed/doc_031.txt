@@ -1,0 +1,13 @@
+Sunrise Stationers
+INVOICE
+Invoice #: BILL-2025-1648
+Invoice date: 08/05/2024
+Bill to: Greenfield Foods PLC
+
+Courier delivery        4 x 420.00 = 1,680.00
+Printer paper (box)     2 x 705.00 = 1,410.00
+Laptop repair           3 x 265.00 = 795.00
+
+Subtotal: £3,885.00
+VAT (20%): 777.00 GBP
+Total due: 4,662.00 GBP

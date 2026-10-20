@@ -1,0 +1,7 @@
+CEYLON SPICE TRADERS
+Monthly salary statement
+Period: APRIL 2025
+Name: Ruwan Perera
+Gross pay                 $3,800.00
+Deductions (EPF, tax)     850.00 USD
+Net salary                USD 2,950.00

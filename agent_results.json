@@ -1,0 +1,1725 @@
+[
+  {
+    "doc_id": "payslip_000",
+    "status": "saved",
+    "fields": {
+      "employer_name": "LANKA TEA EXPORTS",
+      "employee_name": "Imran Smith",
+      "pay_period": "May-2024",
+      "gross_pay": 274000.0,
+      "total_deductions": 51300.0,
+      "net_pay": 222700.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_001",
+    "status": "saved",
+    "fields": {
+      "employer_name": "KANDY HARDWARE STORES",
+      "employee_name": "Kasun Perera",
+      "pay_period": "JUNE 2025",
+      "gross_pay": 102000.0,
+      "total_deductions": 10050.0,
+      "net_pay": 91950.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_002",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Sanduni De Mel",
+      "pay_period": "NOVEMBER 2025",
+      "gross_pay": 283500.0,
+      "total_deductions": 73309.77,
+      "net_pay": 210190.23,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_003",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_004",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: document: Value error, net_pay 2730.24 != gross_pay - total_deductions (2742.24)",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_005",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Nimal Wickramasinghe",
+      "pay_period": "Jun-2025",
+      "gross_pay": 5850.0,
+      "total_deductions": 950.0,
+      "net_pay": 4900.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_006",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Kasun Bandara",
+      "pay_period": "December 2025",
+      "gross_pay": 245000.0,
+      "total_deductions": 32450.0,
+      "net_pay": 212550.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_007",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_008",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME TEXTILES (PVT) LTD",
+      "employee_name": "Sarah Silva",
+      "pay_period": "August 2024",
+      "gross_pay": 4650.0,
+      "total_deductions": 1182.1,
+      "net_pay": 3467.9,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_009",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Sarah Khan",
+      "pay_period": "April 2025",
+      "gross_pay": 219000.0,
+      "total_deductions": 58250.0,
+      "net_pay": 160750.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_010",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Kasun De Mel",
+      "pay_period": "JUNE 2024",
+      "gross_pay": 5300.0,
+      "total_deductions": 993.94,
+      "net_pay": 4306.06,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_011",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_012",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: net_pay 2250.0 does not appear in the document. Copy the printed number; do not calculate it.",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_013",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Oliver De Mel",
+      "pay_period": "Jun-2024",
+      "gross_pay": 2100.0,
+      "total_deductions": 400.0,
+      "net_pay": 1700.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_014",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Ayesha Perera",
+      "pay_period": "03/2024",
+      "gross_pay": 299000.0,
+      "total_deductions": 63400.24,
+      "net_pay": 235599.76,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_015",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_016",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Nimal Wickramasinghe",
+      "pay_period": "September 2024",
+      "gross_pay": 5350.0,
+      "total_deductions": 1350.0,
+      "net_pay": 4000.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_017",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Amal Smith",
+      "pay_period": "PAYSLIP - 07/2025",
+      "gross_pay": 110500.0,
+      "total_deductions": 21437.17,
+      "net_pay": 89062.83,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_018",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Kasun Smith",
+      "pay_period": "01/2024",
+      "gross_pay": 5950.0,
+      "total_deductions": 850.0,
+      "net_pay": 5100.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_019",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Sanduni Bandara",
+      "pay_period": "PAYSLIP - 01/2025",
+      "gross_pay": 318500.0,
+      "total_deductions": 39800.0,
+      "net_pay": 278700.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_020",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Sarah Taylor",
+      "pay_period": "Feb-2024",
+      "gross_pay": 315500.0,
+      "total_deductions": 83700.0,
+      "net_pay": 231800.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_021",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Hannah Rajapaksa",
+      "pay_period": "JUNE 2024",
+      "gross_pay": 3300.0,
+      "total_deductions": 900.0,
+      "net_pay": 2400.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_022",
+    "status": "saved",
+    "fields": {
+      "employer_name": "LANKA TEA EXPORTS",
+      "employee_name": "Dilani Jayasinghe",
+      "pay_period": "August 2025",
+      "gross_pay": 418500.0,
+      "total_deductions": 67350.0,
+      "net_pay": 351150.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_023",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: document: Value error, net_pay 2458.0 != gross_pay - total_deductions (2450.0)",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_024",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Imran Perera",
+      "pay_period": "Oct-2025",
+      "gross_pay": 5350.0,
+      "total_deductions": 821.49,
+      "net_pay": 4528.51,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_025",
+    "status": "saved",
+    "fields": {
+      "employer_name": "GREENFIELD FOODS PLC",
+      "employee_name": "Kasun Smith",
+      "pay_period": "December 2024",
+      "gross_pay": 4050.0,
+      "total_deductions": 700.0,
+      "net_pay": 3350.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_026",
+    "status": "saved",
+    "fields": {
+      "employer_name": "GREENFIELD FOODS PLC",
+      "employee_name": "Amal Bandara",
+      "pay_period": "09/2024",
+      "gross_pay": 1950.0,
+      "total_deductions": 250.0,
+      "net_pay": 1700.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_027",
+    "status": "saved",
+    "fields": {
+      "employer_name": "LANKA TEA EXPORTS",
+      "employee_name": "Ayesha Perera",
+      "pay_period": "May 2025",
+      "gross_pay": 209000.0,
+      "total_deductions": 33889.25,
+      "net_pay": 175110.75,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_028",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: net_pay 3215.03 does not appear in the document. Copy the printed number; do not calculate it.",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_029",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_030",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Imran Rajapaksa",
+      "pay_period": "06/2024",
+      "gross_pay": 2900.0,
+      "total_deductions": 410.71,
+      "net_pay": 2489.29,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_031",
+    "status": "escalated",
+    "reason": "employee_name missing",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_032",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: document: Value error, net_pay 328715.79 != gross_pay - total_deductions (333715.79)",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_033",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Nimal Jayasinghe",
+      "pay_period": "03/2024",
+      "gross_pay": 6200.0,
+      "total_deductions": 1200.0,
+      "net_pay": 5000.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_034",
+    "status": "saved",
+    "fields": {
+      "employer_name": "LANKA TEA EXPORTS",
+      "employee_name": "Priya Rajapaksa",
+      "pay_period": "Apr-2025",
+      "gross_pay": 270000.0,
+      "total_deductions": 37597.98,
+      "net_pay": 232402.02,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_035",
+    "status": "saved",
+    "fields": {
+      "employer_name": "LANKA TEA EXPORTS",
+      "employee_name": "Priya Khan",
+      "pay_period": "JULY 2024",
+      "gross_pay": 416500.0,
+      "total_deductions": 84800.0,
+      "net_pay": 331700.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_036",
+    "status": "escalated",
+    "reason": "Inconsistent net_pay and gross_pay - total_deductions values",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_037",
+    "status": "escalated",
+    "reason": "employee_name missing",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_038",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Chamari Smith",
+      "pay_period": "12/2024",
+      "gross_pay": 4600.0,
+      "total_deductions": 800.0,
+      "net_pay": 3800.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_039",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Sanduni Rajapaksa",
+      "pay_period": "Aug-2025",
+      "gross_pay": 2050.0,
+      "total_deductions": 306.76,
+      "net_pay": 1743.24,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_040",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Oliver Silva",
+      "pay_period": "09/2024",
+      "gross_pay": 5100.0,
+      "total_deductions": 950.0,
+      "net_pay": 4150.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_041",
+    "status": "saved",
+    "fields": {
+      "employer_name": "NOVA DIGITAL SOLUTIONS",
+      "employee_name": "Oliver Smith",
+      "pay_period": "February 2024",
+      "gross_pay": 2350.0,
+      "total_deductions": 500.0,
+      "net_pay": 1850.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_042",
+    "status": "saved",
+    "fields": {
+      "employer_name": "KANDY HARDWARE STORES",
+      "employee_name": "Nimal Fernando",
+      "pay_period": "MAY 2025",
+      "gross_pay": 3900.0,
+      "total_deductions": 600.0,
+      "net_pay": 3300.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_043",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Dilani Khan",
+      "pay_period": "10/2025",
+      "gross_pay": 3200.0,
+      "total_deductions": 598.01,
+      "net_pay": 2601.99,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_044",
+    "status": "saved",
+    "fields": {
+      "employer_name": "CEYLON SPICE TRADERS",
+      "employee_name": "Imran Khan",
+      "pay_period": "AUGUST 2025",
+      "gross_pay": 3500.0,
+      "total_deductions": 585.45,
+      "net_pay": 2914.55,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_045",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Dilani Jayasinghe",
+      "pay_period": "01/2024",
+      "gross_pay": 4650.0,
+      "total_deductions": 1100.0,
+      "net_pay": 3550.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_046",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Ayesha Patel",
+      "pay_period": "12/2024",
+      "gross_pay": 256000.0,
+      "total_deductions": 56300.0,
+      "net_pay": 199700.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_047",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_048",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Sanduni Fernando",
+      "pay_period": "3/2025",
+      "gross_pay": 2900.0,
+      "total_deductions": 286.81,
+      "net_pay": 2613.19,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_049",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Priya Silva",
+      "pay_period": "10/2025",
+      "gross_pay": 4550.0,
+      "total_deductions": 1234.95,
+      "net_pay": 3315.05,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_050",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Oliver Silva",
+      "pay_period": "November 2024",
+      "gross_pay": 351000.0,
+      "total_deductions": 39900.0,
+      "net_pay": 311100.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_051",
+    "status": "saved",
+    "fields": {
+      "employer_name": "HARBOUR VIEW HOTELS",
+      "employee_name": "Imran De Mel",
+      "pay_period": "July 2024",
+      "gross_pay": 3400.0,
+      "total_deductions": 650.0,
+      "net_pay": 2750.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_052",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Ayesha Bandara",
+      "pay_period": "Feb-2025",
+      "gross_pay": 3950.0,
+      "total_deductions": 400.0,
+      "net_pay": 3550.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_053",
+    "status": "saved",
+    "fields": {
+      "employer_name": "GREENFIELD FOODS PLC",
+      "employee_name": "Kasun Taylor",
+      "pay_period": "August 2025",
+      "gross_pay": 4150.0,
+      "total_deductions": 1050.0,
+      "net_pay": 3100.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_054",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_055",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: net_pay 5651.04 does not appear in the document. Copy the printed number; do not calculate it.",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_056",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Amal Patel",
+      "pay_period": "06/2025",
+      "gross_pay": 2300.0,
+      "total_deductions": 300.0,
+      "net_pay": 2000.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_057",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Oliver Patel",
+      "pay_period": "JANUARY 2025",
+      "gross_pay": 4650.0,
+      "total_deductions": 613.47,
+      "net_pay": 4036.53,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_058",
+    "status": "escalated",
+    "reason": "validation failed 3 times. Last problems: document: Value error, net_pay 2085.0 != gross_pay - total_deductions (2050.0)",
+    "steps": 6,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "validate_payslip",
+      "validate_payslip"
+    ]
+  },
+  {
+    "doc_id": "payslip_059",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Kasun Bandara",
+      "pay_period": "SEPTEMBER 2025",
+      "gross_pay": 6000.0,
+      "total_deductions": 1075.86,
+      "net_pay": 4924.14,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_060",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Sanduni Rajapaksa",
+      "pay_period": "May-2025",
+      "gross_pay": 3600.0,
+      "total_deductions": 386.61,
+      "net_pay": 3213.39,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_061",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Sarah Perera",
+      "pay_period": "Jun-2024",
+      "gross_pay": 5950.0,
+      "total_deductions": 940.98,
+      "net_pay": 5009.02,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_062",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Hannah Khan",
+      "pay_period": "May-2025",
+      "gross_pay": 6450.0,
+      "total_deductions": 1500.0,
+      "net_pay": 4950.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_063",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Dilani Rajapaksa",
+      "pay_period": "Jul-2024",
+      "gross_pay": 4300.0,
+      "total_deductions": 700.0,
+      "net_pay": 3600.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_064",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_065",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Amal Smith",
+      "pay_period": "07/2024",
+      "gross_pay": 3950.0,
+      "total_deductions": 850.0,
+      "net_pay": 3100.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_066",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Dilani Smith",
+      "pay_period": "11/2025",
+      "gross_pay": 2500.0,
+      "total_deductions": 200.0,
+      "net_pay": 2300.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_067",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Sanduni Jayasinghe",
+      "pay_period": "APRIL 2025",
+      "gross_pay": 98500.0,
+      "total_deductions": 9250.0,
+      "net_pay": 89250.0,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_068",
+    "status": "saved",
+    "fields": {
+      "employer_name": "NOVA DIGITAL SOLUTIONS",
+      "employee_name": "Chamari Rajapaksa",
+      "pay_period": "02/2024",
+      "gross_pay": 5500.0,
+      "total_deductions": 1026.73,
+      "net_pay": 4473.27,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_069",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Kasun Jayasinghe",
+      "pay_period": "April 2024",
+      "gross_pay": 3600.0,
+      "total_deductions": 550.0,
+      "net_pay": 3050.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_070",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Tharindu Jayasinghe",
+      "pay_period": "June 2025",
+      "gross_pay": 5750.0,
+      "total_deductions": 700.0,
+      "net_pay": 5050.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_071",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Thames Bridge Accounting",
+      "employee_name": "Sarah Taylor",
+      "pay_period": "Jan-2024",
+      "gross_pay": 2750.0,
+      "total_deductions": 291.1,
+      "net_pay": 2458.9,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_072",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_073",
+    "status": "saved",
+    "fields": {
+      "employer_name": "HARBOUR VIEW HOTELS",
+      "employee_name": "Imran Rajapaksa",
+      "pay_period": "Aug-2025",
+      "gross_pay": 127500.0,
+      "total_deductions": 22215.46,
+      "net_pay": 105284.54,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_074",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Brightway Logistics Ltd",
+      "employee_name": "Priya Smith",
+      "pay_period": "Mar-2025",
+      "gross_pay": 2750.0,
+      "total_deductions": 700.0,
+      "net_pay": 2050.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_075",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Sanduni De Mel",
+      "pay_period": "DECEMBER 2024",
+      "gross_pay": 4500.0,
+      "total_deductions": 693.86,
+      "net_pay": 3806.14,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_076",
+    "status": "saved",
+    "fields": {
+      "employer_name": "BRIGHTWAY LOGISTICS LTD",
+      "employee_name": "Oliver Rajapaksa",
+      "pay_period": "May 2024",
+      "gross_pay": 2950.0,
+      "total_deductions": 400.0,
+      "net_pay": 2550.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_077",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Greenfield Foods PLC",
+      "employee_name": "Ruwan Wickramasinghe",
+      "pay_period": "January 2024",
+      "gross_pay": 3200.0,
+      "total_deductions": 250.0,
+      "net_pay": 2950.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_078",
+    "status": "escalated",
+    "reason": "employee_name 'John Doe' does not appear in the document",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_079",
+    "status": "escalated",
+    "reason": "employee_name missing",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_080",
+    "status": "escalated",
+    "reason": "employee_name missing",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_081",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Nimal Taylor",
+      "pay_period": "October 2025",
+      "gross_pay": 3200.0,
+      "total_deductions": 400.0,
+      "net_pay": 2800.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_082",
+    "status": "saved",
+    "fields": {
+      "employer_name": "THAMES BRIDGE ACCOUNTING",
+      "employee_name": "Sarah Jayasinghe",
+      "pay_period": "March 2025",
+      "gross_pay": 3600.0,
+      "total_deductions": 831.18,
+      "net_pay": 2768.82,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_083",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME TEXTILES (PVT) LTD",
+      "employee_name": "Ayesha Rajapaksa",
+      "pay_period": "07/2025",
+      "gross_pay": 5650.0,
+      "total_deductions": 1416.56,
+      "net_pay": 4233.44,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_084",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Sarah Perera",
+      "pay_period": "07/2024",
+      "gross_pay": 6150.0,
+      "total_deductions": 1650.0,
+      "net_pay": 4500.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_085",
+    "status": "saved",
+    "fields": {
+      "employer_name": "GREENFIELD FOODS PLC",
+      "employee_name": "Ruwan Smith",
+      "pay_period": "January 2024",
+      "gross_pay": 2350.0,
+      "total_deductions": 350.0,
+      "net_pay": 2000.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_086",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Oliver Smith",
+      "pay_period": "5/2024",
+      "gross_pay": 3200.0,
+      "total_deductions": 850.0,
+      "net_pay": 2350.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_087",
+    "status": "escalated",
+    "reason": "net_pay 1958.0 != gross_pay - total_deductions (1950.0)",
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "escalate"
+    ]
+  },
+  {
+    "doc_id": "payslip_088",
+    "status": "saved",
+    "fields": {
+      "employer_name": "NOVA DIGITAL SOLUTIONS",
+      "employee_name": "Amal Taylor",
+      "pay_period": "NOVEMBER 2024",
+      "gross_pay": 3600.0,
+      "total_deductions": 797.55,
+      "net_pay": 2802.45,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_089",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME TEXTILES (PVT) LTD",
+      "employee_name": "Hannah De Mel",
+      "pay_period": "Nov-2024",
+      "gross_pay": 5300.0,
+      "total_deductions": 572.55,
+      "net_pay": 4727.45,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_090",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Nova Digital Solutions",
+      "employee_name": "Sarah Fernando",
+      "pay_period": "11/2024",
+      "gross_pay": 2250.0,
+      "total_deductions": 376.79,
+      "net_pay": 1873.21,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_091",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME Textiles (Pvt) Ltd",
+      "employee_name": "Amal Taylor",
+      "pay_period": "Jan-2024",
+      "gross_pay": 205500.0,
+      "total_deductions": 30341.1,
+      "net_pay": 175158.9,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_092",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Chamari Bandara",
+      "pay_period": "February 2025",
+      "gross_pay": 2400.0,
+      "total_deductions": 562.08,
+      "net_pay": 1837.92,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_093",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME TEXTILES (PVT) LTD",
+      "employee_name": "Nimal Jayasinghe",
+      "pay_period": "February 2024",
+      "gross_pay": 279000.0,
+      "total_deductions": 65242.59,
+      "net_pay": 213757.41,
+      "currency": "LKR"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_094",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Ceylon Spice Traders",
+      "employee_name": "Priya Wickramasinghe",
+      "pay_period": "PAYSLIP - 02/2024",
+      "gross_pay": 4900.0,
+      "total_deductions": 1100.0,
+      "net_pay": 3800.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_095",
+    "status": "saved",
+    "fields": {
+      "employer_name": "ACME TEXTILES (PVT) LTD",
+      "employee_name": "Imran Smith",
+      "pay_period": "Dec-2024",
+      "gross_pay": 5100.0,
+      "total_deductions": 700.0,
+      "net_pay": 4400.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_096",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Kandy Hardware Stores",
+      "employee_name": "Sarah Patel",
+      "pay_period": "SEPTEMBER 2025",
+      "gross_pay": 4150.0,
+      "total_deductions": 1091.45,
+      "net_pay": 3058.55,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_097",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Lanka Tea Exports",
+      "employee_name": "Sanduni Taylor",
+      "pay_period": "PAYSLIP - 09/2025",
+      "gross_pay": 6450.0,
+      "total_deductions": 1700.0,
+      "net_pay": 4750.0,
+      "currency": "USD"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_098",
+    "status": "saved",
+    "fields": {
+      "employer_name": "GREENFIELD FOODS PLC",
+      "employee_name": "Kasun Smith",
+      "pay_period": "September 2024",
+      "gross_pay": 2950.0,
+      "total_deductions": 763.51,
+      "net_pay": 2186.49,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  },
+  {
+    "doc_id": "payslip_099",
+    "status": "saved",
+    "fields": {
+      "employer_name": "Harbour View Hotels",
+      "employee_name": "Hannah De Mel",
+      "pay_period": "July 2025",
+      "gross_pay": 3150.0,
+      "total_deductions": 600.0,
+      "net_pay": 2550.0,
+      "currency": "GBP"
+    },
+    "steps": 3,
+    "calls": [
+      "read_document",
+      "validate_payslip",
+      "save_result"
+    ]
+  }
+]

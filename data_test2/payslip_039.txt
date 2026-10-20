@@ -1,0 +1,7 @@
+Ceylon Spice Traders
+Currency: USD
+PAYSLIP - Aug-2025
+Employee: Sanduni Rajapaksa
+Total earnings: 2,050.00
+Total deductions: 306.76
+Take-home pay: 1,743.24

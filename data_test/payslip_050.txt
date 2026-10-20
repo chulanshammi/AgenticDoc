@@ -1,0 +1,7 @@
+Harbour View Hotels
+Currency: GBP
+PAYSLIP - 05/2024
+Employee: Dilani Jayasinghe
+Gross salary: 2,150.00
+Deductions (EPF, tax): 584.02
+Net pay: 1,565.98

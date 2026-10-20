@@ -1,0 +1,9 @@
+PAY ADVICE
+Currency: USD
+Company: Ceylon Spice Traders
+Staff member: Ayesha Bandara
+Pay period: Feb-2025
+
+Earnings .... Total earnings: 3,950.00
+Less ........ Deductions (EPF, tax): 400.00
+Paid ........ Amount paid: 3,550.00

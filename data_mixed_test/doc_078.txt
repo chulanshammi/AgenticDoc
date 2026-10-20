@@ -1,0 +1,13 @@
+Riverside Catering
+INVOICE
+Invoice number: INV-2025-3544
+Date: 2024-11-24
+Bill to: ACME Textiles (Pvt) Ltd
+
+Courier delivery        2 x 855.00 = 1,710.00
+Laptop repair           3 x 60.00 = 180.00
+Printer paper (box)     9 x 425.00 = 3,825.00
+
+Total before VAT: USD 5,715.00
+VAT (10%): $571.50
+Total due: 6,290.50 USD

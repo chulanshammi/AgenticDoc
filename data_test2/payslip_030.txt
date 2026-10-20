@@ -1,0 +1,7 @@
+Thames Bridge Accounting
+Currency: USD
+PAYSLIP - 06/2024
+Employee: Imran Rajapaksa
+Gross: 2,900.00
+Total deductions: 410.71
+Amount paid: 2,489.29

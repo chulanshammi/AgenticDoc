@@ -1,0 +1,6 @@
+Ceylon Spice Traders
+PAYSLIP - AUGUST 2024
+Employee: Sanduni Fernando
+Gross: LKR 413,500.00
+Deductions (EPF, tax): LKR 115,720.66
+Amount paid: 2,97,779.34 LKR

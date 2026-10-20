@@ -1,0 +1,12 @@
+Invoice
+Supplier: Zenith Freight Ltd
+Customer: Thames Bridge Accounting
+Issued: 25 June 2024
+Inv. Number: BILL-2024-9966
+
+Cloud hosting           3 x 17,350.00 = 52,050.00
+Printed brochures       9 x 10,850.00 = 97,650.00
+
+Net amount: 1,49,700.00 LKR
+VAT (18%): LKR 26,946.00
+Total due: Rs.176,646.00

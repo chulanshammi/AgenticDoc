@@ -1,0 +1,11 @@
+TAX INVOICE
+Billed to: Ceylon Spice Traders
+Invoice number: BILL-2024-9583
+Issued: 2025-01-25
+
+Courier delivery        4 x 56,550.00 = 226,200.00
+Printer paper (box)     7 x 19,550.00 = 136,850.00
+
+Net amount: Rs.363,050.00
+VAT (18%): 65,349.00 LKR
+Total due: Rs.428,399.00

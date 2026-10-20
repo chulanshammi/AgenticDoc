@@ -1,0 +1,7 @@
+Brightway Logistics Ltd
+Currency: GBP
+PAYSLIP - Nov-2024
+Employee: Amal Fernando
+Total earnings: 4,600.00
+Tax & contributions: 400.00
+Net salary: 4,200.00

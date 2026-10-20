@@ -1,0 +1,14 @@
+Invoice
+Currency: USD
+Supplier: Zenith Freight Ltd
+Customer: Kandy Hardware Stores
+Issued: 11-Mar-2024
+Invoice No: BILL-2024-9384
+
+Courier delivery        10 x 120.00 = 1,200.00
+Printed brochures       9 x 590.00 = 5,310.00
+Consulting hours        9 x 480.00 = 4,320.00
+
+Subtotal: 10,830.00
+VAT (10%): 1,083.00
+Grand total: 11,898.00
