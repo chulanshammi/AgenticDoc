@@ -1,8 +1,0 @@
-KANDY HARDWARE STORES
-Currency: LKR
-Monthly salary statement
-Period: NOVEMBER 2024
-Name: Kasun Smith
-Gross salary              238,500.00
-Total deductions          48,550.00
-Net salary                189,950.00

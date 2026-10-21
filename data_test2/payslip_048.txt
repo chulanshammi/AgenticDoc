@@ -1,7 +1,0 @@
-Nova Digital Solutions
-Currency: GBP
-PAYSLIP - 03/2025
-Employee: Sanduni Fernando
-Gross pay: 2,900.00
-Tax & contributions: 286.81
-Net salary: 2,613.19

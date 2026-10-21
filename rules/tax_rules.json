@@ -1,0 +1,72 @@
+[
+  {
+    "id": "my_gst_standard",
+    "country": "MY",
+    "valid_from": null,
+    "valid_to": "2018-05-31",
+    "text": "Malaysia, goods and services tax (GST). Until 31 May 2018 GST was charged at the standard rate of 6%. The 6% GST was implemented in 2015. A receipt or tax invoice from this period normally shows GST at 6%.",
+    "sources": [
+      "https://3ecpa.com.my/taxation-and-gst/transitioning-from-gst-to-sst-in-malaysia",
+      "https://www.activpayroll.com/news-articles/abolition-of-gst-and-transition-to-sst-in-malaysia"
+    ],
+    "note": "Start date: the sources say 2015 only. The exact day is not in them, so valid_from is left open. The sentence about what a receipt normally shows is our reading of the rule, checked against the SROIE receipts. In SROIE, 480 of the 487 receipts dated up to May 2018 that print a rate print 6%."
+  },
+  {
+    "id": "my_gst_zero",
+    "country": "MY",
+    "valid_from": "2018-06-01",
+    "valid_to": "2018-08-31",
+    "text": "Malaysia, GST zero rate. From 1 June 2018 the GST rate was adjusted from 6% to 0% across Malaysia, ahead of the move to the sales and service tax (SST). A receipt from June to August 2018 normally shows GST at 0%.",
+    "sources": [
+      "https://www.activpayroll.com/news-articles/abolition-of-gst-and-transition-to-sst-in-malaysia",
+      "https://globaltaxnews.ey.com/news/2018-5990-malaysian-lower-house-passes-sales-and-service-tax-legislation"
+    ],
+    "note": "Start 1 June 2018 is in the ActivPayroll page. The end date 31 August 2018 is inferred from SST starting on 1 September 2018. ActivPayroll alone says 6% GST is deactivated from 1 August 2018, so receipts in August 2018 may differ. The sentence about what a receipt normally shows is our reading of the rule, checked against the SROIE receipts. In SROIE, 44 of the 47 receipts dated June to August 2018 that print a rate print 0%."
+  },
+  {
+    "id": "my_sst_sales",
+    "country": "MY",
+    "valid_from": "2018-09-01",
+    "valid_to": null,
+    "text": "Malaysia, sales tax under the sales and service tax (SST), which replaces GST from 1 September 2018. Sales tax is charged at 5% or 10% depending on the goods, and at a specific amount for petroleum products.",
+    "sources": [
+      "https://3ecpa.com.my/taxation-and-gst/transitioning-from-gst-to-sst-in-malaysia",
+      "https://globaltaxnews.ey.com/news/2018-5990-malaysian-lower-house-passes-sales-and-service-tax-legislation"
+    ],
+    "note": "Both pages were written before SST started (planned or expected wording). Rates may have changed later; this chunk is for receipts from 2018 to early 2019."
+  },
+  {
+    "id": "my_sst_service",
+    "country": "MY",
+    "valid_from": "2018-09-01",
+    "valid_to": null,
+    "text": "Malaysia, service tax under the sales and service tax (SST), in force from 1 September 2018. The service tax rate is fixed at 6%. A receipt after this date can show service tax at 6% instead of GST.",
+    "sources": [
+      "https://3ecpa.com.my/taxation-and-gst/transitioning-from-gst-to-sst-in-malaysia",
+      "https://globaltaxnews.ey.com/news/2018-5990-malaysian-lower-house-passes-sales-and-service-tax-legislation"
+    ],
+    "note": "The sources say the rate is 6%; both were written before SST started. Which services are taxable is not covered here. The sentence about what a receipt normally shows is our reading of the rule, checked against the SROIE receipts."
+  },
+  {
+    "id": "id_restaurant_tax_rate",
+    "country": "ID",
+    "valid_from": null,
+    "valid_to": null,
+    "text": "Indonesia, restaurant tax (PB1, now part of the regional tax on certain goods and services, PBJT). It is a regional tax, not the national VAT (PPN). The maximum rate is 10% (Law 1 of 2022 on central and regional financial relations, Article 58). Each regional government sets its own rate, which can be lower than 10%.",
+    "sources": [
+      "https://pajakku.com/artikel/pajak-restoran-pb1-tarif-cara-hitung-dan-manfaatnya"
+    ],
+    "note": "Receipts in CORD carry no dates, so no validity period is set. The source describes the current law; older receipts were under Law 28 of 2009, whose details were not checked here."
+  },
+  {
+    "id": "id_restaurant_tax_formula",
+    "country": "ID",
+    "valid_from": null,
+    "valid_to": null,
+    "text": "Indonesia, how restaurant tax (PB1) is calculated: PB1 payable = total customer payment x PB1 rate. Example from the source: a bill of Rp 500,000 at a 10% rate gives Rp 50,000 of tax, and the customer pays Rp 550,000 in total. The tax is an amount of money printed on the receipt, not the percentage.",
+    "sources": [
+      "https://pajakku.com/artikel/pajak-restoran-pb1-tarif-cara-hitung-dan-manfaatnya"
+    ],
+    "note": "The source does not say whether a service charge is part of the base; do not infer that."
+  }
+]

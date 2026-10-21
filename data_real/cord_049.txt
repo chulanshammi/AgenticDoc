@@ -1,0 +1,7 @@
+1x 52.000 52.000
+Nasi CampurBali
+1x 22.000 22.000
+Lemon
+SubTTL 74.000
+TAX 7.400
+CASH 81.400

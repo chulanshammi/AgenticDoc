@@ -1,8 +1,0 @@
-NOVA DIGITAL SOLUTIONS
-Currency: USD
-Monthly salary statement
-Period: SEPTEMBER 2024
-Name: Nimal Smith
-Gross                     4,400.00
-Total deductions          700.00
-Net salary                3,700.00

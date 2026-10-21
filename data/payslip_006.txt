@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: USD
-Company: Lanka Tea Exports
-Staff member: Imran Perera
-Pay period: FEBRUARY 2024
-
-Earnings .... Gross: 3,000.00
-Less ........ Deductions: 700.00
-Paid ........ Net pay: 2,300.00

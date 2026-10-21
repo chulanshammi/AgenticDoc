@@ -1,0 +1,1385 @@
+{
+  "results": [
+    {
+      "id": "sroie_000",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_000",
+        "status": "saved",
+        "fields": {
+          "total": 193.0,
+          "supplier_name": "OJC MARKETING SDN BHD",
+          "invoice_date": "15/01/2019 11:05:16 AM",
+          "invoice_number": "PEGIV-1030765",
+          "subtotal": 193.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "OJC MARKETING SDN BHD",
+        "invoice_date": "15/01/2019",
+        "total": "193.00",
+        "invoice_number": "PEGIV-1030765"
+      }
+    },
+    {
+      "id": "sroie_048",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_048",
+        "status": "saved",
+        "fields": {
+          "total": 53.0,
+          "supplier_name": "VIVOPAC MARKETING SDN BHD (1070687-M)",
+          "invoice_date": "13/09/2017 01:13:09 PM",
+          "invoice_number": "CS11567459",
+          "subtotal": 49.5,
+          "tax": 2.97
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "VIVOPAC MARKETING SDN BHD",
+        "invoice_date": "13/09/2017",
+        "total": "52.45",
+        "invoice_number": "CS11567459"
+      }
+    },
+    {
+      "id": "sroie_097",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_097",
+        "status": "saved",
+        "fields": {
+          "total": 8.2,
+          "supplier_name": "SAINT HEART PASTRY",
+          "invoice_date": "25/03/2018",
+          "invoice_number": null,
+          "subtotal": 3.1,
+          "tax": 0.46
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SAINT HEART PASTRY",
+        "invoice_date": "25/03/2018",
+        "total": "8.20",
+        "invoice_number": "CS00254837"
+      }
+    },
+    {
+      "id": "sroie_145",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_145",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: invoice_number 'NO 2, JALAN BULAN BM U5/BM, SEKSYEN U5, 40150 SHAH ALAM, SELANGOR' does not appear in the document. Copy it exactly as printed, or leave it empty.",
+        "steps": 5,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MEI LET RESTAURANT",
+        "invoice_date": "03/02/2017",
+        "total": "68.90",
+        "invoice_number": "00015258 / 10P01"
+      }
+    },
+    {
+      "id": "sroie_194",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_194",
+        "status": "saved",
+        "fields": {
+          "total": 9.0,
+          "supplier_name": "NSK TRADE CITY-SELAYANG (626470-P)",
+          "invoice_date": "27-10-2017",
+          "invoice_number": "300048",
+          "subtotal": 9.0,
+          "tax": 0.51
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "NSK TRADE CITY-SELAYANG",
+        "invoice_date": "27-10-2017",
+        "total": "RM9.00",
+        "invoice_number": "300048"
+      }
+    },
+    {
+      "id": "sroie_243",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_243",
+        "status": "saved",
+        "fields": {
+          "total": 34.4,
+          "supplier_name": "SDN BHD",
+          "invoice_date": "05-01-16 14:41",
+          "invoice_number": "T2 R000308995",
+          "subtotal": 13.5,
+          "tax": 2.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MR. D.I.Y. (KUCHAI) SDN BHD",
+        "invoice_date": "05-01-16",
+        "total": "RM 34.40",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_291",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_291",
+        "status": "saved",
+        "fields": {
+          "total": 2.0,
+          "supplier_name": "SANYU SUPPLY SDN BHD (1135772-K)",
+          "invoice_date": "17/11/2017",
+          "invoice_number": "CS-SA-0124981",
+          "subtotal": 3.5,
+          "tax": 0.11
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SANYU STATIONERY SHOP",
+        "invoice_date": "17/11/2017",
+        "total": "2.00",
+        "invoice_number": "CS-SA-0124981"
+      }
+    },
+    {
+      "id": "sroie_340",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_340",
+        "status": "saved",
+        "fields": {
+          "total": 2.3,
+          "supplier_name": "RESTORAN WAN SHENG",
+          "invoice_date": "27-06-2018 12:15:15",
+          "invoice_number": "1213543",
+          "subtotal": 2.1,
+          "tax": 0.2
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "RESTORAN WAN SHENG",
+        "invoice_date": "27-06-2018",
+        "total": "2.30",
+        "invoice_number": "1213543"
+      }
+    },
+    {
+      "id": "sroie_389",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_389",
+        "status": "saved",
+        "fields": {
+          "total": 100.0,
+          "supplier_name": "CASHIER NINI",
+          "invoice_date": "5/3/2018 22:52:33",
+          "invoice_number": "INVOICE :581355",
+          "subtotal": 64.15,
+          "tax": 3.63
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "TASTE OF THE WORLD SDN BHD",
+        "invoice_date": "5/3/2018",
+        "total": "64.15",
+        "invoice_number": "581355"
+      }
+    },
+    {
+      "id": "sroie_437",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_437",
+        "status": "saved",
+        "fields": {
+          "total": 5.0,
+          "supplier_name": "MYDIN MART SRI MUDA",
+          "invoice_date": "13/03/2017 03:00:42PM",
+          "invoice_number": "255018",
+          "subtotal": 2.5,
+          "tax": 0.28
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "TRI SHAAS SDN BHD",
+        "invoice_date": "13/03/2017",
+        "total": "5.00",
+        "invoice_number": "255018"
+      }
+    },
+    {
+      "id": "sroie_486",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_486",
+        "status": "saved",
+        "fields": {
+          "total": 6.7,
+          "supplier_name": "RESTORAN WAN SHENG",
+          "invoice_date": "21-03-2018 16:08:24",
+          "invoice_number": "1054650",
+          "subtotal": 6.33,
+          "tax": 0.37
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "RESTORAN WAN SHENG",
+        "invoice_date": "21-03-2018",
+        "total": "6.70",
+        "invoice_number": "1054650"
+      }
+    },
+    {
+      "id": "sroie_535",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_535",
+        "status": "saved",
+        "fields": {
+          "total": 31.0,
+          "supplier_name": "KMF FOODICIOUS SDN BHD (1132106-H)",
+          "invoice_date": "09-04-2018 19:22:25",
+          "invoice_number": "V015- 673381",
+          "subtotal": 26.6,
+          "tax": 1.76
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KMF FOODICIOUS SDN BHD",
+        "invoice_date": "09-04-2018",
+        "total": "31.00",
+        "invoice_number": "V015- 673381"
+      }
+    },
+    {
+      "id": "sroie_583",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_583",
+        "status": "saved",
+        "fields": {
+          "total": 14.85,
+          "supplier_name": "B & BEST RESTAURANT",
+          "invoice_date": "20/03/2017 11:12:35 AM",
+          "invoice_number": "00127408 / POS01",
+          "subtotal": 14.0,
+          "tax": 0.84
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "B & BEST RESTAURANT",
+        "invoice_date": "20/03/2017",
+        "total": "14.85",
+        "invoice_number": "00127408"
+      }
+    },
+    {
+      "id": "sroie_632",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_632",
+        "status": "saved",
+        "fields": {
+          "total": 8.2,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "09 APR 2018",
+          "invoice_number": "OR18040902160299",
+          "subtotal": 5.5,
+          "tax": 0.46
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "09 APR 2018",
+        "total": "$8.20",
+        "invoice_number": "OR18040902160299"
+      }
+    },
+    {
+      "id": "sroie_681",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_681",
+        "status": "saved",
+        "fields": {
+          "total": 36.36,
+          "supplier_name": "MAKASSAR FRESH MARKET SDN BHD",
+          "invoice_date": "25/08/2017",
+          "invoice_number": "CASH INV NO.: 7825F713",
+          "subtotal": 2.13,
+          "tax": 0.72
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "25/08/2017",
+        "total": "36.36",
+        "invoice_number": "7825F713"
+      }
+    },
+    {
+      "id": "sroie_729",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_729",
+        "status": "saved",
+        "fields": {
+          "total": 47.7,
+          "supplier_name": "HAI-O RAYA BHD",
+          "invoice_date": "15/12/2016",
+          "invoice_number": "11508705",
+          "subtotal": 47.7,
+          "tax": 2.7
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "HAI-O RAYA BHD",
+        "invoice_date": "15/12/2016",
+        "total": "47.70",
+        "invoice_number": "11508705"
+      }
+    },
+    {
+      "id": "sroie_778",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_778",
+        "status": "saved",
+        "fields": {
+          "total": 10.3,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "10 MAY 2018 12:32",
+          "invoice_number": "OR18051002160062",
+          "subtotal": 10.3,
+          "tax": 0.58
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "10 MAY 2018",
+        "total": "$10.30",
+        "invoice_number": "OR18051002160062"
+      }
+    },
+    {
+      "id": "sroie_827",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_827",
+        "status": "saved",
+        "fields": {
+          "total": 36.0,
+          "supplier_name": "SANYU STATIONERY SHOP",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 36.0,
+          "tax": 2.04
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SANYU STATIONERY SHOP",
+        "invoice_date": "14/12/2017",
+        "total": "36.00",
+        "invoice_number": "CS-SA-0130363"
+      }
+    },
+    {
+      "id": "sroie_875",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_875",
+        "status": "saved",
+        "fields": {
+          "total": 25.85,
+          "supplier_name": "DELUXEGROUPS.COM",
+          "invoice_date": "02/06/18",
+          "invoice_number": "NO.89&91",
+          "subtotal": 1.4,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "DE LUXE CIRCLE FRESH MART SDN BHD",
+        "invoice_date": "02/06/18",
+        "total": "25.85",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_924",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_924",
+        "status": "saved",
+        "fields": {
+          "total": 25.0,
+          "supplier_name": "SPEED MART S/B (519537-X)",
+          "invoice_date": "04-06-18",
+          "invoice_number": "18418/102/T0260",
+          "subtotal": 568268.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "99 SPEED MART S/B",
+        "invoice_date": "04-06-18",
+        "total": "23.40",
+        "invoice_number": "18418/102/T0260"
+      }
+    },
+    {
+      "id": "cord_000",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_000",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name 'Cord Store' does not appear in the document. Copy it as printed, or leave it empty.; invoice_number 'INV-2023-001' does not appear in the document. Copy it exactly as printed, or leave it empty.; invoice_date '2023-10-01' does not matc",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "total": "45,500",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 3
+      }
+    },
+    {
+      "id": "cord_005",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_005",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name is the placeholder 'None'. Leave it empty if the document has none.; invoice_number 'None' does not appear in the document. Copy it exactly as printed, or leave it empty.; invoice_date 'None' does not match the document, which shows: no",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "total": "8,000",
+        "subtotal": "7,273",
+        "tax": "727",
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_010",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_010",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: invoice_number 'INV-2024-001' does not appear in the document. Copy it exactly as printed, or leave it empty.; invoice_date '2024-01-15' does not match the document, which shows: no recognisable date. Copy it as printed, or leave it empty.",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "total": "60.000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_015",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_015",
+        "status": "saved",
+        "fields": {
+          "total": 59.4,
+          "supplier_name": "Pepenero Pastel",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 54.0,
+          "tax": 5.4
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "Rp 59.400",
+        "subtotal": "Rp 54.000",
+        "tax": "Rp 5.400",
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_020",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_020",
+        "status": "saved",
+        "fields": {
+          "total": 16500.0,
+          "supplier_name": null,
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 15000.0,
+          "tax": 10.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "16,500",
+        "subtotal": "15,000",
+        "tax": "1,500",
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_025",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_025",
+        "status": "saved",
+        "fields": {
+          "total": 207900.0,
+          "supplier_name": "Sop Sui Jiao",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 180000.0,
+          "tax": 18900.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "207,900",
+        "subtotal": "180,000",
+        "tax": "18,900",
+        "item_count": 7
+      }
+    },
+    {
+      "id": "cord_030",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_030",
+        "status": "saved",
+        "fields": {
+          "total": 21000.0,
+          "supplier_name": "REDBEAN BRE/D",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 9000.0,
+          "tax": 12000.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "21,000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_035",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_035",
+        "status": "saved",
+        "fields": {
+          "total": 304326.0,
+          "supplier_name": null,
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 304326.0,
+          "tax": null
+        },
+        "steps": 5,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "304,326",
+        "subtotal": "261,000",
+        "tax": "27,666",
+        "item_count": 4
+      }
+    },
+    {
+      "id": "cord_040",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_040",
+        "status": "saved",
+        "fields": {
+          "total": 379500.0,
+          "supplier_name": "Gojek Chicken 1",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 345000.0,
+          "tax": 34500.0
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "379,500",
+        "subtotal": "345,000",
+        "tax": "34,500",
+        "item_count": 3
+      }
+    },
+    {
+      "id": "cord_045",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_045",
+        "status": "saved",
+        "fields": {
+          "total": 287760.0,
+          "supplier_name": "AOP Seafood",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 240000.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "287,760",
+        "subtotal": "240,000",
+        "tax": "26,160",
+        "item_count": 4
+      }
+    },
+    {
+      "id": "cord_050",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_050",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name 'Cord Co.' does not appear in the document. Copy it as printed, or leave it empty.",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "total": "26,000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_055",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_055",
+        "status": "saved",
+        "fields": {
+          "total": 60.0,
+          "supplier_name": "BCA PAY... (100%)",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 60.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "60.000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_060",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_060",
+        "status": "saved",
+        "fields": {
+          "total": 180000.0,
+          "supplier_name": null,
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 180000.0,
+          "tax": null
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "180,000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_065",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_065",
+        "status": "saved",
+        "fields": {
+          "total": 54.6,
+          "supplier_name": null,
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 49.636,
+          "tax": 10.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "54.600",
+        "subtotal": "49.636",
+        "tax": "4.964",
+        "item_count": 2
+      }
+    },
+    {
+      "id": "cord_070",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_070",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: tax 21798.0 does not appear in the document. Leave it out if it is not printed.",
+        "steps": 6,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "total": "121,798",
+        "subtotal": "103,000",
+        "tax": "11,073",
+        "item_count": 3
+      }
+    },
+    {
+      "id": "cord_075",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_075",
+        "status": "saved",
+        "fields": {
+          "total": 66500.0,
+          "supplier_name": "KFC Winger HC 40,000",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 60454.0,
+          "tax": 10.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "66,500",
+        "subtotal": "60,454",
+        "tax": "6,046",
+        "item_count": 5
+      }
+    },
+    {
+      "id": "cord_080",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_080",
+        "status": "saved",
+        "fields": {
+          "total": 25.0,
+          "supplier_name": "Sate Padang",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 25.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "25.000",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_085",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_085",
+        "status": "saved",
+        "fields": {
+          "total": 15000.0,
+          "supplier_name": "Peanut & Cheese",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 1364.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "15,000",
+        "subtotal": "13,636",
+        "tax": "1,364",
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_090",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_090",
+        "status": "saved",
+        "fields": {
+          "total": 70000.0,
+          "supplier_name": "OFFLINE PROMO",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 70000.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "70000.00",
+        "subtotal": null,
+        "tax": null,
+        "item_count": 1
+      }
+    },
+    {
+      "id": "cord_095",
+      "source": "cord",
+      "result": {
+        "doc_id": "cord_095",
+        "status": "saved",
+        "fields": {
+          "total": 30000.0,
+          "supplier_name": null,
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 27272.0,
+          "tax": 10.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "total": "30,000",
+        "subtotal": "27,272",
+        "tax": "2,700",
+        "item_count": 2
+      }
+    }
+  ],
+  "silent_errors": [
+    {
+      "id": "sroie_048",
+      "wrong": [
+        [
+          "supplier_name",
+          "VIVOPAC MARKETING SDN BHD (1070687-M)",
+          "VIVOPAC MARKETING SDN BHD"
+        ],
+        [
+          "total",
+          53.0,
+          "52.45"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_097",
+      "wrong": [
+        [
+          "invoice_number",
+          null,
+          "CS00254837"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_194",
+      "wrong": [
+        [
+          "supplier_name",
+          "NSK TRADE CITY-SELAYANG (626470-P)",
+          "NSK TRADE CITY-SELAYANG"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_243",
+      "wrong": [
+        [
+          "supplier_name",
+          "SDN BHD",
+          "MR. D.I.Y. (KUCHAI) SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_291",
+      "wrong": [
+        [
+          "supplier_name",
+          "SANYU SUPPLY SDN BHD (1135772-K)",
+          "SANYU STATIONERY SHOP"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_389",
+      "wrong": [
+        [
+          "supplier_name",
+          "CASHIER NINI",
+          "TASTE OF THE WORLD SDN BHD"
+        ],
+        [
+          "invoice_number",
+          "INVOICE :581355",
+          "581355"
+        ],
+        [
+          "total",
+          100.0,
+          "64.15"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_437",
+      "wrong": [
+        [
+          "supplier_name",
+          "MYDIN MART SRI MUDA",
+          "TRI SHAAS SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_535",
+      "wrong": [
+        [
+          "supplier_name",
+          "KMF FOODICIOUS SDN BHD (1132106-H)",
+          "KMF FOODICIOUS SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_583",
+      "wrong": [
+        [
+          "invoice_number",
+          "00127408 / POS01",
+          "00127408"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_681",
+      "wrong": [
+        [
+          "supplier_name",
+          "MAKASSAR FRESH MARKET SDN BHD",
+          "GARDENIA BAKERIES (KL) SDN BHD"
+        ],
+        [
+          "invoice_number",
+          "CASH INV NO.: 7825F713",
+          "7825F713"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_827",
+      "wrong": [
+        [
+          "invoice_date",
+          null,
+          "14/12/2017"
+        ],
+        [
+          "invoice_number",
+          null,
+          "CS-SA-0130363"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_875",
+      "wrong": [
+        [
+          "supplier_name",
+          "DELUXEGROUPS.COM",
+          "DE LUXE CIRCLE FRESH MART SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_924",
+      "wrong": [
+        [
+          "supplier_name",
+          "SPEED MART S/B (519537-X)",
+          "99 SPEED MART S/B"
+        ],
+        [
+          "total",
+          25.0,
+          "23.40"
+        ]
+      ]
+    },
+    {
+      "id": "cord_015",
+      "wrong": [
+        [
+          "total",
+          59.4,
+          "Rp 59.400"
+        ],
+        [
+          "subtotal",
+          54.0,
+          "Rp 54.000"
+        ],
+        [
+          "tax",
+          5.4,
+          "Rp 5.400"
+        ]
+      ]
+    },
+    {
+      "id": "cord_020",
+      "wrong": [
+        [
+          "tax",
+          10.0,
+          "1,500"
+        ]
+      ]
+    },
+    {
+      "id": "cord_035",
+      "wrong": [
+        [
+          "subtotal",
+          304326.0,
+          "261,000"
+        ],
+        [
+          "tax",
+          null,
+          "27,666"
+        ]
+      ]
+    },
+    {
+      "id": "cord_045",
+      "wrong": [
+        [
+          "tax",
+          null,
+          "26,160"
+        ]
+      ]
+    },
+    {
+      "id": "cord_055",
+      "wrong": [
+        [
+          "total",
+          60.0,
+          "60.000"
+        ]
+      ]
+    },
+    {
+      "id": "cord_065",
+      "wrong": [
+        [
+          "total",
+          54.6,
+          "54.600"
+        ],
+        [
+          "subtotal",
+          49.636,
+          "49.636"
+        ],
+        [
+          "tax",
+          10.0,
+          "4.964"
+        ]
+      ]
+    },
+    {
+      "id": "cord_075",
+      "wrong": [
+        [
+          "tax",
+          10.0,
+          "6,046"
+        ]
+      ]
+    },
+    {
+      "id": "cord_080",
+      "wrong": [
+        [
+          "total",
+          25.0,
+          "25.000"
+        ]
+      ]
+    },
+    {
+      "id": "cord_085",
+      "wrong": [
+        [
+          "subtotal",
+          1364.0,
+          "13,636"
+        ],
+        [
+          "tax",
+          null,
+          "1,364"
+        ]
+      ]
+    },
+    {
+      "id": "cord_095",
+      "wrong": [
+        [
+          "tax",
+          10.0,
+          "2,700"
+        ]
+      ]
+    }
+  ]
+}

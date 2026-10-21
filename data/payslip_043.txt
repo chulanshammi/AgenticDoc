@@ -1,8 +1,0 @@
-GREENFIELD FOODS PLC
-Currency: LKR
-Monthly salary statement
-Period: January 2024
-Name: Hannah De Mel
-Gross salary              400,000.00
-Total deductions          48,882.02
-Amount paid               349,917.98

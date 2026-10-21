@@ -1,6 +1,0 @@
-CEYLON SPICE TRADERS
-Monthly salary statement
-Period: 03/2025
-Gross pay                 5,300.00 GBP
-Deductions                £850.00
-Net pay                   4,450.00 GBP

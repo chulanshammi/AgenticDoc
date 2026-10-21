@@ -1,6 +1,0 @@
-DELIVERY NOTE
-Supplier: Zenith Freight Ltd
-Delivered to: ACME Textiles (Pvt) Ltd
-Date: 14-Sep-2025
-Items: 4 boxes, 2 pallets
-Received by: Oliver Perera

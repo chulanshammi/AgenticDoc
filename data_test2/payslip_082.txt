@@ -1,8 +1,0 @@
-THAMES BRIDGE ACCOUNTING
-Currency: GBP
-Monthly salary statement
-Period: March 2025
-Name: Sarah Jayasinghe
-Gross pay                 3,600.00
-Deductions                831.18
-Take-home pay             2,768.82

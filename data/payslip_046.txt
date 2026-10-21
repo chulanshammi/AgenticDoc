@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: USD
-Company: Greenfield Foods PLC
-Staff member: Nimal Fernando
-Pay period: APRIL 2024
-
-Earnings .... Total earnings: 3,700.00
-Less ........ Deductions (EPF, tax): 722.42
-Paid ........ Amount paid: 2,977.58

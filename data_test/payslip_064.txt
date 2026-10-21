@@ -1,7 +1,0 @@
-CEYLON SPICE TRADERS
-Monthly salary statement
-Period: August 2024
-Name: Ayesha De Mel
-Gross                     GBP 4,150.00
-Deductions (EPF, tax)     900.00 GBP
-Amount paid               3,250.00 GBP

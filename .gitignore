@@ -1,3 +1,7 @@
 /.venv
 /.vscode
 /__pycache__
+/real_raw
+/supplier_db
+/rules_db
+/legacy

@@ -1,0 +1,5 @@
+1 BBQ Chicken 41,000
+1 Sedang 0
+ITEMS: 1 41,000
+Total. 50.000 41,000
+Pay Cash Change :9,000

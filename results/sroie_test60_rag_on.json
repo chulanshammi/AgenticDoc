@@ -1,0 +1,2049 @@
+{
+  "results": [
+    {
+      "id": "sroie_000",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_000",
+        "status": "saved",
+        "fields": {
+          "total": 193.0,
+          "supplier_name": "OJC MARKETING SDN BHD",
+          "invoice_date": "15/01/2019 11:05:16 AM",
+          "invoice_number": "PEGIV-1030765",
+          "subtotal": 193.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "OJC MARKETING SDN BHD",
+        "invoice_date": "15/01/2019",
+        "total": "193.00",
+        "invoice_number": "PEGIV-1030765"
+      }
+    },
+    {
+      "id": "sroie_005",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_005",
+        "status": "saved",
+        "fields": {
+          "total": 7.3,
+          "supplier_name": "SIN LIANHAP SDN BHD",
+          "invoice_date": "05/02/2018",
+          "invoice_number": ":H0003939",
+          "subtotal": 7.3,
+          "tax": 0.41
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SIN LIANHAP SDN BHD",
+        "invoice_date": "05/02/2018",
+        "total": "7.30",
+        "invoice_number": "H0003939"
+      }
+    },
+    {
+      "id": "sroie_011",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_011",
+        "status": "saved",
+        "fields": {
+          "total": 1.0,
+          "supplier_name": "SECURE PARKING CORPORATION S/B",
+          "invoice_date": "23.03.18",
+          "invoice_number": "K0131800235697",
+          "subtotal": 1.0,
+          "tax": 0.06
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SECURE PARKING CORPORATION S/B",
+        "invoice_date": "23.03.18",
+        "total": "1.00",
+        "invoice_number": "K0131800235697"
+      }
+    },
+    {
+      "id": "sroie_017",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_017",
+        "status": "saved",
+        "fields": {
+          "total": 1.05,
+          "supplier_name": "TEO HENG STATIONERY & BOOKS",
+          "invoice_date": "29/01/2018",
+          "invoice_number": "CS1801/27224",
+          "subtotal": 1.0,
+          "tax": 0.06
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "TEO HENG STATIONERY & BOOKS",
+        "invoice_date": "29/01/2018",
+        "total": "1.05",
+        "invoice_number": "CS1801/27224"
+      }
+    },
+    {
+      "id": "sroie_023",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_023",
+        "status": "saved",
+        "fields": {
+          "total": 50.0,
+          "supplier_name": "AEON TEBRAU CITY",
+          "invoice_date": "11/03/2018 07:09 PM",
+          "invoice_number": "1000249",
+          "subtotal": 49.7,
+          "tax": 2.8
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "YHM AEON TEBRAU CITY",
+        "invoice_date": "11/03/2018",
+        "total": "49.70",
+        "invoice_number": "003-1220845"
+      }
+    },
+    {
+      "id": "sroie_028",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_028",
+        "status": "saved",
+        "fields": {
+          "total": 8.5,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "25 MAR 2018 18:26",
+          "invoice_number": "OR18032502170439",
+          "subtotal": 8.5,
+          "tax": 0.48
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "25 MAR 2018",
+        "total": "$8.50",
+        "invoice_number": "OR18032502170439"
+      }
+    },
+    {
+      "id": "sroie_034",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_034",
+        "status": "saved",
+        "fields": {
+          "total": 66.15,
+          "supplier_name": "STAR GROCER SDN BHD (1171881-W)",
+          "invoice_date": "25/03/18",
+          "invoice_number": "DSP05201803250022",
+          "subtotal": 12.72,
+          "tax": 66.17
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "STAR GROCER SDN BHD",
+        "invoice_date": "25/03/18",
+        "total": "66.15",
+        "invoice_number": "DSP05201803250022"
+      }
+    },
+    {
+      "id": "sroie_040",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_040",
+        "status": "saved",
+        "fields": {
+          "total": 140.65,
+          "supplier_name": "COSWAY (M) SDN BHD",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": null,
+          "tax": null
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "POPULAR BOOK CO. (M) SDN BHD",
+        "invoice_date": "23/12/17",
+        "total": "140.65",
+        "invoice_number": "9050338975"
+      }
+    },
+    {
+      "id": "sroie_046",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_046",
+        "status": "saved",
+        "fields": {
+          "total": 26.0,
+          "supplier_name": "EVERGREEN LIGHT SDN BHD",
+          "invoice_date": "18/09/2017",
+          "invoice_number": "142507",
+          "subtotal": 24.52,
+          "tax": 1.47
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "EVERGREEN LIGHT SDN BHD",
+        "invoice_date": "18/09/2017",
+        "total": "26.00",
+        "invoice_number": "142507"
+      }
+    },
+    {
+      "id": "sroie_052",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_052",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name must be 'AEON CO. (M) BHD': the supplier master matched this receipt to that company.",
+        "steps": 5,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "AEON CO. (M) BHD",
+        "invoice_date": "14/03/2018",
+        "total": "12.25",
+        "invoice_number": "2018031430090060035"
+      }
+    },
+    {
+      "id": "sroie_057",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_057",
+        "status": "saved",
+        "fields": {
+          "total": 7.0,
+          "supplier_name": "LIM SENG THO HARDWARE TRADING",
+          "invoice_date": "02/02/2018 10:06",
+          "invoice_number": "CS 24146",
+          "subtotal": 7.0,
+          "tax": 0.4
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "LIM SENG THO HARDWARE TRADING",
+        "invoice_date": "02/02/2018",
+        "total": "7.00",
+        "invoice_number": "CS 24146"
+      }
+    },
+    {
+      "id": "sroie_063",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_063",
+        "status": "saved",
+        "fields": {
+          "total": 100.17,
+          "supplier_name": "Sriyarat Perniagaan Gin Kee",
+          "invoice_date": "04/01/2018",
+          "invoice_number": "DOC NO",
+          "subtotal": 5.67,
+          "tax": 5.67
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SYARIKAT PERNIAGAAN GIN KEE",
+        "invoice_date": "04/01/2018",
+        "total": "100.17",
+        "invoice_number": "CS00012544"
+      }
+    },
+    {
+      "id": "sroie_069",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_069",
+        "status": "saved",
+        "fields": {
+          "total": 10.6,
+          "supplier_name": "SARIKAT PERNIAGAAN GIN KEE",
+          "invoice_date": "29/12/2017",
+          "invoice_number": "DOC NO.\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\n: CS00012465",
+          "subtotal": 10.6,
+          "tax": 0.6
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SYARIKAT PERNIAGAAN GIN KEE",
+        "invoice_date": "29/12/2017",
+        "total": "10.60",
+        "invoice_number": "CS00012465"
+      }
+    },
+    {
+      "id": "sroie_075",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_075",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: tax 7.0 does not appear in the document. Leave it out if it is not printed.",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "WESTERN EASTERN STATIONERY SDN. BHD",
+        "invoice_date": "26-02-2018",
+        "total": "RM7.42",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_080",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_080",
+        "status": "saved",
+        "fields": {
+          "total": 7.4,
+          "supplier_name": "SDN BHD",
+          "invoice_date": "21/03/2018",
+          "invoice_number": "CS00032256",
+          "subtotal": 7.0,
+          "tax": 0.42
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "TS TOOLS HARDWARE & MACHINERY SDN BHD",
+        "invoice_date": "21/03/2018",
+        "total": "7.40",
+        "invoice_number": "CS00032256"
+      }
+    },
+    {
+      "id": "sroie_086",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_086",
+        "status": "saved",
+        "fields": {
+          "total": 18.7,
+          "supplier_name": "KAISON FURNISHING SDN BHD",
+          "invoice_date": null,
+          "invoice_number": null,
+          "subtotal": 18.7,
+          "tax": 1.06
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KAISON FURNISHING SDN BHD",
+        "invoice_date": "25-03-18",
+        "total": "18.70",
+        "invoice_number": "0000MTW-P2000086706"
+      }
+    },
+    {
+      "id": "sroie_092",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_092",
+        "status": "saved",
+        "fields": {
+          "total": 40.0,
+          "supplier_name": "POTTERS GARDEN SDN BHD",
+          "invoice_date": "04/01/2018 12:29:18 PM",
+          "invoice_number": "G/00002268",
+          "subtotal": 1.0,
+          "tax": 2.26
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "POTTERS GARDEN SDN BHD",
+        "invoice_date": "04/01/2018",
+        "total": "39.80",
+        "invoice_number": "G/00002268"
+      }
+    },
+    {
+      "id": "sroie_098",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_098",
+        "status": "saved",
+        "fields": {
+          "total": 68.9,
+          "supplier_name": "KEDAI PAPAN YEW CHUAN",
+          "invoice_date": "21/03/2018",
+          "invoice_number": "CS00011014",
+          "subtotal": 65.0,
+          "tax": 3.9
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KEDAI PAPAN YEW CHUAN",
+        "invoice_date": "21/03/2018",
+        "total": "68.90",
+        "invoice_number": "CS00011014"
+      }
+    },
+    {
+      "id": "sroie_104",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_104",
+        "status": "saved",
+        "fields": {
+          "total": 270.3,
+          "supplier_name": "KEDAI PAPAN YEW CHUAN",
+          "invoice_date": "02/04/2018",
+          "invoice_number": "CS00011384",
+          "subtotal": 255.0,
+          "tax": 15.3
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KEDAI PAPAN YEW CHUAN",
+        "invoice_date": "02/04/2018",
+        "total": "270.30",
+        "invoice_number": "CS00011384"
+      }
+    },
+    {
+      "id": "sroie_109",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_109",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: total 11.9 does not appear in the document. Copy the printed amount; do not calculate it.; subtotal 6.9 does not appear in the document. Leave it out if it is not printed.; supplier_name must be 'URBAN IDEA SDN BHD': the supplier master matched this ",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "URBAN IDEA SDN BHD",
+        "invoice_date": "14/02/2018",
+        "total": "RM11.90",
+        "invoice_number": "1/A-42210-138075"
+      }
+    },
+    {
+      "id": "sroie_115",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_115",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name must be 'SEGI CASH & CARRY SDN. BHD.': the supplier master matched this receipt to that company.",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SEGI CASH & CARRY SDN. BHD.",
+        "invoice_date": "12 MAR 2018",
+        "total": "145.10",
+        "invoice_number": "31911"
+      }
+    },
+    {
+      "id": "sroie_121",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_121",
+        "status": "saved",
+        "fields": {
+          "total": 100.0,
+          "supplier_name": "MR. D.I.Y. SDN BHD",
+          "invoice_date": "23-03-18 16:43",
+          "invoice_number": "T1 R000111721",
+          "subtotal": 0.35,
+          "tax": 0.35
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MR. D.I.Y. (M) SDN BHD",
+        "invoice_date": "23-03-18",
+        "total": "6.20",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_127",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_127",
+        "status": "saved",
+        "fields": {
+          "total": 98.9,
+          "supplier_name": "SPEED MART S/B",
+          "invoice_date": "28-01-18",
+          "invoice_number": "18291/102/T0380",
+          "subtotal": 569004.0,
+          "tax": 5.61
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "99 SPEED MART S/B",
+        "invoice_date": "28-01-18",
+        "total": "98.90",
+        "invoice_number": "18291/102/T0380"
+      }
+    },
+    {
+      "id": "sroie_133",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_133",
+        "status": "saved",
+        "fields": {
+          "total": 20.0,
+          "supplier_name": "SATU KAMPUNG ENTERPRISE SDN BHD",
+          "invoice_date": "13/01/2018",
+          "invoice_number": "CASHIER",
+          "subtotal": 18.87,
+          "tax": 1.13
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SATU KAMPUNG ENTERPRISE SDN BHD",
+        "invoice_date": "13/01/2018",
+        "total": "20.00",
+        "invoice_number": "CS00039038"
+      }
+    },
+    {
+      "id": "sroie_138",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_138",
+        "status": "saved",
+        "fields": {
+          "total": 30.68,
+          "supplier_name": "COSWAY (M) SDN BHD",
+          "invoice_date": "06/03/18 18:01",
+          "invoice_number": "NO 8, JALAN 7/118B, DESA TUN RAZAK",
+          "subtotal": 28.94,
+          "tax": 1.74
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "POPULAR BOOK CO. (M) SDN BHD",
+        "invoice_date": "06/03/18",
+        "total": "30.70",
+        "invoice_number": "8010180429"
+      }
+    },
+    {
+      "id": "sroie_144",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_144",
+        "status": "saved",
+        "fields": {
+          "total": 22.45,
+          "supplier_name": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+          "invoice_date": null,
+          "invoice_number": "NO.8 & 10, GF SOLARIS MOUNT KUARA",
+          "subtotal": 22.44,
+          "tax": 6.0
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+        "invoice_date": "01/01/18",
+        "total": "22.45",
+        "invoice_number": "53488"
+      }
+    },
+    {
+      "id": "sroie_150",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_150",
+        "status": "saved",
+        "fields": {
+          "total": 27.0,
+          "supplier_name": "SEMBOYAN TEGAS SDN BHD",
+          "invoice_date": "06-03-2018 07:24:06",
+          "invoice_number": "CHECK # 549146",
+          "subtotal": 26.2,
+          "tax": 0.78
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SEMBOYAN TEGAS SDN BHD",
+        "invoice_date": "06-03-2018",
+        "total": "27.00",
+        "invoice_number": "549146"
+      }
+    },
+    {
+      "id": "sroie_156",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_156",
+        "status": "saved",
+        "fields": {
+          "total": 1.4,
+          "supplier_name": "S&Y STATIONERY",
+          "invoice_date": "09-JAN-2017 01:48:43 PM",
+          "invoice_number": "CS-0004350",
+          "subtotal": 1.32,
+          "tax": 6.0
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "S&Y STATIONERY",
+        "invoice_date": "09-JAN-2017",
+        "total": "1.40",
+        "invoice_number": "CS-0004350"
+      }
+    },
+    {
+      "id": "sroie_161",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_161",
+        "status": "saved",
+        "fields": {
+          "total": 43.65,
+          "supplier_name": "JESS",
+          "invoice_date": "19/04/2018 14:19",
+          "invoice_number": "1541",
+          "subtotal": 43.65,
+          "tax": 2.62
+        },
+        "steps": 5,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "CHA FOR TEA",
+        "invoice_date": "19/04/2018",
+        "total": "RM46.25",
+        "invoice_number": "1541"
+      }
+    },
+    {
+      "id": "sroie_167",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_167",
+        "status": "escalated",
+        "reason": "total missing",
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "escalate"
+        ]
+      },
+      "expected": {
+        "supplier_name": "AMANO MALAYSIA SDN BHD",
+        "invoice_date": "30/04/2017",
+        "total": "RM1.00",
+        "invoice_number": "0002300417000134"
+      }
+    },
+    {
+      "id": "sroie_173",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_173",
+        "status": "saved",
+        "fields": {
+          "total": 164.4,
+          "supplier_name": "RESTORAN WAN SHE",
+          "invoice_date": "29-09-2017 22:19:53",
+          "invoice_number": "784997",
+          "subtotal": 155.09,
+          "tax": 9.31
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "RESTORAN WAN SHE",
+        "invoice_date": "29-09-2017",
+        "total": "164.40",
+        "invoice_number": "784997"
+      }
+    },
+    {
+      "id": "sroie_179",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_179",
+        "status": "saved",
+        "fields": {
+          "total": 7.6,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "04 APR 2018",
+          "invoice_number": "OR18040402170361",
+          "subtotal": 7.6,
+          "tax": 0.43
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "04 APR 2018",
+        "total": "$7.60",
+        "invoice_number": "OR18040402170361"
+      }
+    },
+    {
+      "id": "sroie_185",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_185",
+        "status": "saved",
+        "fields": {
+          "total": 160.0,
+          "supplier_name": "TRIPLE SIX POINT ENTERPRISE",
+          "invoice_date": "23-04-2018 06:29:01 PM",
+          "invoice_number": "REC-0016614",
+          "subtotal": 4.3,
+          "tax": 7.2
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "TRIPLE SIX POINT ENTERPRISE 666",
+        "invoice_date": "23-04-2018",
+        "total": "157.90",
+        "invoice_number": "REC-0016614"
+      }
+    },
+    {
+      "id": "sroie_190",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_190",
+        "status": "saved",
+        "fields": {
+          "total": 95.48,
+          "supplier_name": "HIGH FIVE ENTERPRISE",
+          "invoice_date": "05/04/18",
+          "invoice_number": "01000683964",
+          "subtotal": 43.4,
+          "tax": 2.2
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "HIGH FIVE ENTERPRISE",
+        "invoice_date": "05/04/18",
+        "total": "95.48",
+        "invoice_number": "01000683964"
+      }
+    },
+    {
+      "id": "sroie_196",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_196",
+        "status": "saved",
+        "fields": {
+          "total": 1.52,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "31/08/2017",
+          "invoice_number": "CASH INV NO.: 7831F712",
+          "subtotal": null,
+          "tax": 0.8
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "31/08/2017",
+        "total": "1.52",
+        "invoice_number": "7831F712"
+      }
+    },
+    {
+      "id": "sroie_202",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_202",
+        "status": "saved",
+        "fields": {
+          "total": 32.13,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "15/08/2017",
+          "invoice_number": "CASH INV NO.: 7815F710",
+          "subtotal": null,
+          "tax": 0.86
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "15/08/2017",
+        "total": "32.13",
+        "invoice_number": "7815F710"
+      }
+    },
+    {
+      "id": "sroie_208",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_208",
+        "status": "saved",
+        "fields": {
+          "total": 79.26,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "22/09/2017",
+          "invoice_number": "CASH INV NO.: 7922F711",
+          "subtotal": 56.93,
+          "tax": 3.41
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "22/09/2017",
+        "total": "79.26",
+        "invoice_number": "7922F711"
+      }
+    },
+    {
+      "id": "sroie_213",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_213",
+        "status": "saved",
+        "fields": {
+          "total": 28.98,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "27/09/2017",
+          "invoice_number": "CASH INV NO.: 7927F713",
+          "subtotal": 2.13,
+          "tax": null
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "27/09/2017",
+        "total": "28.98",
+        "invoice_number": "7927F713"
+      }
+    },
+    {
+      "id": "sroie_219",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_219",
+        "status": "saved",
+        "fields": {
+          "total": 5.0,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "01/09/2017",
+          "invoice_number": "CASH INV NO.: 7901F709",
+          "subtotal": 5.0,
+          "tax": 0.35
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "01/09/2017",
+        "total": "5.00",
+        "invoice_number": "7901F709"
+      }
+    },
+    {
+      "id": "sroie_225",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_225",
+        "status": "saved",
+        "fields": {
+          "total": 33.84,
+          "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+          "invoice_date": "06/10/2017",
+          "invoice_number": "VE0514",
+          "subtotal": 33.84,
+          "tax": null
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "GARDENIA BAKERIES (KL) SDN BHD",
+        "invoice_date": "06/10/2017",
+        "total": "33.84",
+        "invoice_number": "7006F714"
+      }
+    },
+    {
+      "id": "sroie_231",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_231",
+        "status": "saved",
+        "fields": {
+          "total": 25.55,
+          "supplier_name": "NING SDN. BHD.",
+          "invoice_date": "24/12/16 2:28:22 PM",
+          "invoice_number": "BILL NO",
+          "subtotal": 3.0,
+          "tax": 1.45
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+        "invoice_date": "24/12/16",
+        "total": "25.55",
+        "invoice_number": "POS/268511"
+      }
+    },
+    {
+      "id": "sroie_237",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_237",
+        "status": "saved",
+        "fields": {
+          "total": 50.9,
+          "supplier_name": "MR. D.I.Y. SDN BHD",
+          "invoice_date": "21-02-16 12:43",
+          "invoice_number": "T2 R000580475",
+          "subtotal": 17.5,
+          "tax": 1.75
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MR. D.I.Y. (M) SDN BHD",
+        "invoice_date": "21-02-16",
+        "total": "RM 30.90",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_242",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_242",
+        "status": "saved",
+        "fields": {
+          "total": 29.1,
+          "supplier_name": "NING SDN. BHD.",
+          "invoice_date": "02/01/16 11:41:47 AM",
+          "invoice_number": "POS/118958",
+          "subtotal": 11.9,
+          "tax": 1.64
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+        "invoice_date": "02/01/16",
+        "total": "29.10",
+        "invoice_number": "POS/118958"
+      }
+    },
+    {
+      "id": "sroie_248",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_248",
+        "status": "saved",
+        "fields": {
+          "total": 50.0,
+          "supplier_name": "YINMA SEGAMBUT",
+          "invoice_date": "9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\nNO OF ITEMS: 3",
+          "invoice_number": "INVOICE NO\nDATE\nCOUNTER\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\nNO OF ITEMS: 3",
+          "subtotal": 10.9,
+          "tax": 1.86
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "YIN MA (M) SDN.BHD.",
+        "invoice_date": "03 JUN 2016",
+        "total": "32.70",
+        "invoice_number": "44795"
+      }
+    },
+    {
+      "id": "sroie_254",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_254",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: supplier_name must be '99 SPEED MART S/B': the supplier master matched this receipt to that company.",
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "99 SPEED MART S/B",
+        "invoice_date": "20-09-16",
+        "total": "14.20",
+        "invoice_number": "17796/103/T0356"
+      }
+    },
+    {
+      "id": "sroie_260",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_260",
+        "status": "saved",
+        "fields": {
+          "total": 39.7,
+          "supplier_name": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.",
+          "invoice_date": "15/12/2017 18:01",
+          "invoice_number": "A546756",
+          "subtotal": 39.7,
+          "tax": 2.25
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "THE COFFEE BEAN & TEA LEAF (M) SDN. BHD.",
+        "invoice_date": "15/12/2017",
+        "total": "39.70",
+        "invoice_number": "A546756"
+      }
+    },
+    {
+      "id": "sroie_266",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_266",
+        "status": "saved",
+        "fields": {
+          "total": 11.0,
+          "supplier_name": "ROYALTEA",
+          "invoice_date": "09/05/2018 12:23 PM",
+          "invoice_number": "STU001/59572",
+          "subtotal": 10.9,
+          "tax": 0.62
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "ROYALTEA",
+        "invoice_date": "09/05/2018",
+        "total": "10.90",
+        "invoice_number": "STU001/59572"
+      }
+    },
+    {
+      "id": "sroie_271",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_271",
+        "status": "saved",
+        "fields": {
+          "total": 8.2,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "21 MAY 2018 18:26",
+          "invoice_number": "OR18052102170378",
+          "subtotal": 8.2,
+          "tax": 0.46
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "21 MAY 2018",
+        "total": "$8.20",
+        "invoice_number": "OR18052102170378"
+      }
+    },
+    {
+      "id": "sroie_277",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_277",
+        "status": "saved",
+        "fields": {
+          "total": 2.0,
+          "supplier_name": "MR. D.I.Y. SDN BHD",
+          "invoice_date": "27-04-18",
+          "invoice_number": "T2",
+          "subtotal": 1.9,
+          "tax": 0.11
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MR. D.I.Y. (M) SDN BHD",
+        "invoice_date": "27-04-18",
+        "total": "1.90",
+        "invoice_number": null
+      }
+    },
+    {
+      "id": "sroie_283",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_283",
+        "status": "saved",
+        "fields": {
+          "total": 8.2,
+          "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+          "invoice_date": "03 MAY 2018 18:27",
+          "invoice_number": "OR18050302170448",
+          "subtotal": 8.2,
+          "tax": 0.46
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "03 MAY 2018",
+        "total": "$8.20",
+        "invoice_number": "OR18050302170448"
+      }
+    },
+    {
+      "id": "sroie_289",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_289",
+        "status": "saved",
+        "fields": {
+          "total": 10.0,
+          "supplier_name": "SANYU STATIONERY SHOP",
+          "invoice_date": "27/03/2017",
+          "invoice_number": "CS-SA-0074035",
+          "subtotal": 8.7,
+          "tax": 0.49
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SANYU STATIONERY SHOP",
+        "invoice_date": "27/03/2017",
+        "total": "8.70",
+        "invoice_number": "CS-SA-0074035"
+      }
+    },
+    {
+      "id": "sroie_294",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_294",
+        "status": "saved",
+        "fields": {
+          "total": 10.0,
+          "supplier_name": "SANYU STATIONERY SHOP",
+          "invoice_date": "24/09/2017",
+          "invoice_number": "CS-SA-0113184",
+          "subtotal": 3.5,
+          "tax": 0.49
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SANYU STATIONERY SHOP",
+        "invoice_date": "24/09/2017",
+        "total": "8.70",
+        "invoice_number": "CS-SA-0113184"
+      }
+    },
+    {
+      "id": "sroie_300",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_300",
+        "status": "saved",
+        "fields": {
+          "total": 10.9,
+          "supplier_name": "SANYU STATIONERY SHOP",
+          "invoice_date": "23/11/2017",
+          "invoice_number": "CS-SA-0126340",
+          "subtotal": 10.89,
+          "tax": 0.62
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "SANYU STATIONERY SHOP",
+        "invoice_date": "23/11/2017",
+        "total": "10.90",
+        "invoice_number": "CS-SA-0126340"
+      }
+    },
+    {
+      "id": "sroie_306",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_306",
+        "status": "saved",
+        "fields": {
+          "total": 58.7,
+          "supplier_name": "WINNIE",
+          "invoice_date": "27/06/18",
+          "invoice_number": "#001-1112563#",
+          "subtotal": 49.9,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "THONG RECIPE",
+        "invoice_date": "27/06/18",
+        "total": "58.70",
+        "invoice_number": "001-1112563"
+      }
+    },
+    {
+      "id": "sroie_312",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_312",
+        "status": "saved",
+        "fields": {
+          "total": 15.0,
+          "supplier_name": "MOONLIGHT CAKE HOUSE SDN BHD",
+          "invoice_date": "07/06/2018",
+          "invoice_number": "SP-NULL-18/06/07-1017888",
+          "subtotal": 14.98,
+          "tax": null
+        },
+        "steps": 5,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "MOONLIGHT CAKE HOUSE SDN BHD",
+        "invoice_date": "07/06/2018",
+        "total": "RM15.00",
+        "invoice_number": "SP-NULL-18/06/07-1017888"
+      }
+    },
+    {
+      "id": "sroie_318",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_318",
+        "status": "saved",
+        "fields": {
+          "total": 50.0,
+          "supplier_name": "AEON CO. (M) BHD",
+          "invoice_date": "17/06/2018",
+          "invoice_number": "1013 022 0220258",
+          "subtotal": 8.96,
+          "tax": null
+        },
+        "steps": 4,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "AEON CO. (M) BHD",
+        "invoice_date": "17/06/2018",
+        "total": "8.95",
+        "invoice_number": "2018061710130220258"
+      }
+    },
+    {
+      "id": "sroie_323",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_323",
+        "status": "escalated",
+        "reason": "validation failed 3 times. Last problems: total 10.15 does not appear in the document. Copy the printed amount; do not calculate it.",
+        "steps": 6,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "validate_receipt",
+          "validate_receipt"
+        ]
+      },
+      "expected": {
+        "supplier_name": "UNIHAKKA INTERNATIONAL SDN BHD",
+        "invoice_date": "14 JUN 2018",
+        "total": "RM10.15",
+        "invoice_number": "OR18061402170457"
+      }
+    },
+    {
+      "id": "sroie_329",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_329",
+        "status": "saved",
+        "fields": {
+          "total": 152.9,
+          "supplier_name": "NAM SAN SEOUL KOREAN BBQ",
+          "invoice_date": "19/06/2018 06:56:10 PM",
+          "invoice_number": "00032375",
+          "subtotal": 16.0,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "KOREAN DINE SDN BHD",
+        "invoice_date": "19/06/2018",
+        "total": "152.90",
+        "invoice_number": "00032375"
+      }
+    },
+    {
+      "id": "sroie_335",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_335",
+        "status": "saved",
+        "fields": {
+          "total": 1.9,
+          "supplier_name": "RESTORAN WAN SHENG",
+          "invoice_date": "11-05-2018 17:12:34",
+          "invoice_number": "1136284",
+          "subtotal": 1.79,
+          "tax": 0.11
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "RESTORAN WAN SHENG",
+        "invoice_date": "11-05-2018",
+        "total": "1.90",
+        "invoice_number": "1136284"
+      }
+    },
+    {
+      "id": "sroie_341",
+      "source": "sroie",
+      "result": {
+        "doc_id": "sroie_341",
+        "status": "saved",
+        "fields": {
+          "total": 4.8,
+          "supplier_name": "RESTORAN WAN SHENG",
+          "invoice_date": "01-06-2018 14:20:08",
+          "invoice_number": "1169924",
+          "subtotal": 4.8,
+          "tax": null
+        },
+        "steps": 3,
+        "calls": [
+          "read_document",
+          "validate_receipt",
+          "save_result"
+        ]
+      },
+      "expected": {
+        "supplier_name": "RESTORAN WAN SHENG",
+        "invoice_date": "01-06-2018",
+        "total": "4.80",
+        "invoice_number": "1169924"
+      }
+    }
+  ],
+  "silent_errors": [
+    {
+      "id": "sroie_023",
+      "wrong": [
+        [
+          "invoice_number",
+          "1000249",
+          "003-1220845"
+        ],
+        [
+          "total",
+          50.0,
+          "49.70"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_034",
+      "wrong": [
+        [
+          "supplier_name",
+          "STAR GROCER SDN BHD (1171881-W)",
+          "STAR GROCER SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_040",
+      "wrong": [
+        [
+          "supplier_name",
+          "COSWAY (M) SDN BHD",
+          "POPULAR BOOK CO. (M) SDN BHD"
+        ],
+        [
+          "invoice_date",
+          null,
+          "23/12/17"
+        ],
+        [
+          "invoice_number",
+          null,
+          "9050338975"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_063",
+      "wrong": [
+        [
+          "invoice_number",
+          "DOC NO",
+          "CS00012544"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_069",
+      "wrong": [
+        [
+          "invoice_number",
+          "DOC NO.\nGOODS SOLD ARE NOT RETURNABLE, THANK YOU.\n: CS00012465",
+          "CS00012465"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_080",
+      "wrong": [
+        [
+          "supplier_name",
+          "SDN BHD",
+          "TS TOOLS HARDWARE & MACHINERY SDN BHD"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_086",
+      "wrong": [
+        [
+          "invoice_date",
+          null,
+          "25-03-18"
+        ],
+        [
+          "invoice_number",
+          null,
+          "0000MTW-P2000086706"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_092",
+      "wrong": [
+        [
+          "total",
+          40.0,
+          "39.80"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_121",
+      "wrong": [
+        [
+          "total",
+          100.0,
+          "6.20"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_133",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASHIER",
+          "CS00039038"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_138",
+      "wrong": [
+        [
+          "supplier_name",
+          "COSWAY (M) SDN BHD",
+          "POPULAR BOOK CO. (M) SDN BHD"
+        ],
+        [
+          "invoice_number",
+          "NO 8, JALAN 7/118B, DESA TUN RAZAK",
+          "8010180429"
+        ],
+        [
+          "total",
+          30.68,
+          "30.70"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_144",
+      "wrong": [
+        [
+          "invoice_date",
+          null,
+          "01/01/18"
+        ],
+        [
+          "invoice_number",
+          "NO.8 & 10, GF SOLARIS MOUNT KUARA",
+          "53488"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_150",
+      "wrong": [
+        [
+          "invoice_number",
+          "CHECK # 549146",
+          "549146"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_161",
+      "wrong": [
+        [
+          "supplier_name",
+          "JESS",
+          "CHA FOR TEA"
+        ],
+        [
+          "total",
+          43.65,
+          "RM46.25"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_185",
+      "wrong": [
+        [
+          "total",
+          160.0,
+          "157.90"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_196",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASH INV NO.: 7831F712",
+          "7831F712"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_202",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASH INV NO.: 7815F710",
+          "7815F710"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_208",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASH INV NO.: 7922F711",
+          "7922F711"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_213",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASH INV NO.: 7927F713",
+          "7927F713"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_219",
+      "wrong": [
+        [
+          "invoice_number",
+          "CASH INV NO.: 7901F709",
+          "7901F709"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_225",
+      "wrong": [
+        [
+          "invoice_number",
+          "VE0514",
+          "7006F714"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_231",
+      "wrong": [
+        [
+          "supplier_name",
+          "NING SDN. BHD.",
+          "KEDAI UBAT & RUNCIT HONG NING SDN. BHD."
+        ],
+        [
+          "invoice_number",
+          "BILL NO",
+          "POS/268511"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_237",
+      "wrong": [
+        [
+          "total",
+          50.9,
+          "RM 30.90"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_242",
+      "wrong": [
+        [
+          "supplier_name",
+          "NING SDN. BHD.",
+          "KEDAI UBAT & RUNCIT HONG NING SDN. BHD."
+        ]
+      ]
+    },
+    {
+      "id": "sroie_248",
+      "wrong": [
+        [
+          "supplier_name",
+          "YINMA SEGAMBUT",
+          "YIN MA (M) SDN.BHD."
+        ],
+        [
+          "invoice_date",
+          "9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\nNO OF ITEMS: 3",
+          "03 JUN 2016"
+        ],
+        [
+          "invoice_number",
+          "INVOICE NO\nDATE\nCOUNTER\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\n9555112913331 STORAGE BOX(SM\nNO OF ITEMS: 3",
+          "44795"
+        ],
+        [
+          "total",
+          50.0,
+          "32.70"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_266",
+      "wrong": [
+        [
+          "total",
+          11.0,
+          "10.90"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_277",
+      "wrong": [
+        [
+          "total",
+          2.0,
+          "1.90"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_289",
+      "wrong": [
+        [
+          "total",
+          10.0,
+          "8.70"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_294",
+      "wrong": [
+        [
+          "total",
+          10.0,
+          "8.70"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_306",
+      "wrong": [
+        [
+          "supplier_name",
+          "WINNIE",
+          "THONG RECIPE"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_318",
+      "wrong": [
+        [
+          "invoice_number",
+          "1013 022 0220258",
+          "2018061710130220258"
+        ],
+        [
+          "total",
+          50.0,
+          "8.95"
+        ]
+      ]
+    },
+    {
+      "id": "sroie_329",
+      "wrong": [
+        [
+          "supplier_name",
+          "NAM SAN SEOUL KOREAN BBQ",
+          "KOREAN DINE SDN BHD"
+        ]
+      ]
+    }
+  ]
+}

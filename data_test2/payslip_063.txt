@@ -1,7 +1,0 @@
-Brightway Logistics Ltd
-Currency: USD
-PAYSLIP - Jul-2024
-Employee: Dilani Rajapaksa
-Gross pay: 4,300.00
-Deductions (EPF, tax): 700.00
-Net salary: 3,600.00

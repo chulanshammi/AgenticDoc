@@ -1,8 +1,0 @@
-PAY ADVICE
-Currency: LKR
-Company: Lanka Tea Exports
-Pay period: Aug-2024
-
-Earnings .... Gross: 338,000.00
-Less ........ Deductions (EPF, tax): 89,800.00
-Paid ........ Take-home pay: 248,200.00

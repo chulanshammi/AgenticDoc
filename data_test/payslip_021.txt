@@ -1,8 +1,0 @@
-KANDY HARDWARE STORES
-Currency: USD
-Monthly salary statement
-Period: 11/2024
-Name: Dilani Perera
-Total earnings            4,500.00
-Tax & contributions       1,203.25
-Net salary                3,296.75

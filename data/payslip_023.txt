@@ -1,7 +1,0 @@
-Greenfield Foods PLC
-Currency: GBP
-PAYSLIP - 10/2025
-Employee: Nimal Fernando
-Total earnings: 3,800.00
-Total deductions: 635.66
-Amount paid: 3,164.34

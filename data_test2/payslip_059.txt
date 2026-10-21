@@ -1,7 +1,0 @@
-Lanka Tea Exports
-Currency: USD
-PAYSLIP - SEPTEMBER 2025
-Employee: Kasun Bandara
-Gross salary: 6,000.00
-Deductions (EPF, tax): 1,075.86
-Net salary: 4,924.14

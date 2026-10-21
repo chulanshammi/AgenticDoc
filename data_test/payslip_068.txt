@@ -1,8 +1,0 @@
-CEYLON SPICE TRADERS
-Currency: LKR
-Monthly salary statement
-Period: DECEMBER 2024
-Name: Chamari Wickramasinghe
-Gross salary              185,500.00
-Deductions (EPF, tax)     36,700.00
-Amount paid               148,800.00

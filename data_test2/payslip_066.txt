@@ -1,8 +1,0 @@
-PAY ADVICE
-Company: ACME Textiles (Pvt) Ltd
-Staff member: Dilani Smith
-Pay period: 11/2025
-
-Earnings .... Gross pay: 2,500.00 GBP
-Less ........ Deductions (EPF, tax): 200.00 GBP
-Paid ........ Take-home pay: 2,300.00 GBP

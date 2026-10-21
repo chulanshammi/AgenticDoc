@@ -1,0 +1,4 @@
+1 Tahu Ikan Oma Giok 20,000
+TOTAL 20,000
+CASH 20,000
+CHANGED 0

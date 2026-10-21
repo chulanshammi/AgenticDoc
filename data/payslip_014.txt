@@ -1,7 +1,0 @@
-ACME Textiles (Pvt) Ltd
-Currency: GBP
-PAYSLIP - 08/2025
-Employee: Tharindu Wickramasinghe
-Gross pay: 5,350.00
-Total deductions: 1,150.00
-Take-home pay: 4,200.00

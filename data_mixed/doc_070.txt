@@ -1,7 +1,0 @@
-ACME Textiles (Pvt) Ltd
-Currency: USD
-PAYSLIP - Sep-2025
-Employee: Ayesha Wickramasinghe
-Gross pay: 5,000.00
-Deductions: 653.31
-Take-home pay: 4,346.69

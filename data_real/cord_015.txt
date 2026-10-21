@@ -1,0 +1,9 @@
+Arem Arem
+2 12.000 24.000
+Pepenero Pastel
+2 15.000 30.000
+Subtotal Rp 54.000
+Tax (10.0%) Rp 5.400
+Total Rp 59.400
+Cash Rp 100.000
+Change Rp 40.600

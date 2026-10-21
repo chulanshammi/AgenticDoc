@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: USD
-Company: Lanka Tea Exports
-Staff member: Ayesha Perera
-Pay period: October 2024
-
-Earnings .... Gross pay: 3,400.00
-Less ........ Deductions: 276.89
-Paid ........ Net pay: 3,123.11

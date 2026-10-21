@@ -1,7 +1,0 @@
-HARBOUR VIEW HOTELS
-Monthly salary statement
-Period: May 2024
-Name: Priya Jayasinghe
-Gross salary              USD 3,350.00
-Total deductions          853.99 USD
-Net salary                2,496.01 USD

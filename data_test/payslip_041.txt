@@ -1,7 +1,0 @@
-ACME Textiles (Pvt) Ltd
-Currency: GBP
-PAYSLIP - 11/2025
-Employee: Priya Jayasinghe
-Gross salary: 5,850.00
-Tax & contributions: 1,300.00
-Net salary: 4,550.00

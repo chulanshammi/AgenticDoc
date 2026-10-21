@@ -1,8 +1,0 @@
-ACME TEXTILES (PVT) LTD
-Currency: LKR
-Monthly salary statement
-Period: February 2024
-Name: Nimal Jayasinghe
-Total earnings            279,000.00
-Total deductions          65,242.59
-Amount paid               213,757.41

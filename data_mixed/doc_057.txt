@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: USD
-Company: Nova Digital Solutions
-Staff member: Dilani Khan
-Pay period: May 2025
-
-Earnings .... Gross pay: 5,800.00
-Less ........ Deductions: 550.00
-Paid ........ Amount paid: 5,250.00

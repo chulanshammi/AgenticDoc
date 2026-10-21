@@ -1,8 +1,0 @@
-KANDY HARDWARE STORES
-Currency: USD
-Monthly salary statement
-Period: APRIL 2024
-Name: Priya Khan
-Gross                     4,450.00
-Tax & contributions       563.87
-Net salary                3,886.13

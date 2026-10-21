@@ -1,0 +1,8 @@
+1 S-Ovaltine 20,000 20,000
+50%
+PB1: 1,818
+Subtotal: 18,181
+Total: 20,000
+Cash: 100,000
+CHANGE: 80,000
+10% Tax Included

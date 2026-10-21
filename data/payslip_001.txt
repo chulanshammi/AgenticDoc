@@ -1,7 +1,0 @@
-ACME Textiles (Pvt) Ltd
-Currency: LKR
-PAYSLIP - 12/2025
-Employee: Oliver Jayasinghe
-Gross: 309,500.00
-Deductions: 61,235.55
-Take-home pay: 248,264.45

@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: GBP
-Company: Kandy Hardware Stores
-Staff member: Imran Bandara
-Pay period: November 2025
-
-Earnings .... Gross salary: 4,000.00
-Less ........ Deductions: 950.00
-Paid ........ Take-home pay: 3,050.00

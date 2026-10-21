@@ -1,6 +1,0 @@
-CEYLON SPICE TRADERS
-Monthly salary statement
-Period: April 2024
-Gross pay                 6,050.00 USD
-Deductions                $491.21
-Amount paid               5,558.79 USD

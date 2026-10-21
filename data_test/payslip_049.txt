@@ -1,7 +1,0 @@
-Lanka Tea Exports
-Currency: GBP
-PAYSLIP - January 2025
-Employee: Ayesha Patel
-Gross: 3,800.00
-Total deductions: 933.55
-Net pay: 2,866.45

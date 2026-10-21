@@ -1,6 +1,0 @@
-Greenfield Foods PLC
-Currency: GBP
-PAYSLIP - Oct-2024
-Gross salary: 3,000.00
-Deductions: 600.00
-Net pay: 2,400.00

@@ -1,8 +1,0 @@
-NOVA DIGITAL SOLUTIONS
-Currency: LKR
-Monthly salary statement
-Period: 02/2024
-Name: Sanduni Rajapaksa
-Gross                     206,500.00
-Total deductions          24,750.00
-Net salary                181,750.00

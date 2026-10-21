@@ -1,7 +1,0 @@
-ACME Textiles (Pvt) Ltd
-Currency: LKR
-PAYSLIP - APRIL 2024
-Employee: Sarah Wickramasinghe
-Gross pay: 132,000.00
-Total deductions: 28,424.87
-Net pay: 103,575.13

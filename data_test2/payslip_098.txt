@@ -1,8 +1,0 @@
-GREENFIELD FOODS PLC
-Currency: GBP
-Monthly salary statement
-Period: September 2024
-Name: Kasun Smith
-Gross salary              2,950.00
-Total deductions          763.51
-Take-home pay             2,186.49

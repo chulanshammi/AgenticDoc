@@ -1,7 +1,0 @@
-Thames Bridge Accounting
-Currency: USD
-PAYSLIP - 09/2024
-Employee: Kasun Patel
-Gross: 4,950.00
-Deductions (EPF, tax): 1,350.00
-Net salary: 3,600.00

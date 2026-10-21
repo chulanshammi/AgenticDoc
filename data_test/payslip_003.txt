@@ -1,7 +1,0 @@
-Brightway Logistics Ltd
-Currency: GBP
-PAYSLIP - Jul-2024
-Employee: Priya Rajapaksa
-Gross salary: 5,800.00
-Tax & contributions: 550.00
-Net salary: 5,250.00

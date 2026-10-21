@@ -1,7 +1,0 @@
-Lanka Tea Exports
-Currency: USD
-PAYSLIP - 09/2025
-Employee: Sanduni Taylor
-Gross: 6,450.00
-Deductions: 1,700.00
-Net pay: 4,750.00

@@ -1,0 +1,9 @@
+4 Choco Devil 63,636
+CP 360 Club Card -9,545
+SubTotal: 63,636
+Discount: -9,545
+PB1: 5,409
+Total: 59,500
+cash: 100,000
+40,500
+Change:

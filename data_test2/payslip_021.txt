@@ -1,7 +1,0 @@
-Lanka Tea Exports
-Currency: USD
-PAYSLIP - JUNE 2024
-Employee: Hannah Rajapaksa
-Gross salary: 3,300.00
-Total deductions: 900.00
-Net salary: 2,400.00

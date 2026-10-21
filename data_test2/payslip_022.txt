@@ -1,8 +1,0 @@
-LANKA TEA EXPORTS
-Currency: LKR
-Monthly salary statement
-Period: August 2025
-Name: Dilani Jayasinghe
-Gross salary              418,500.00
-Total deductions          67,350.00
-Take-home pay             351,150.00

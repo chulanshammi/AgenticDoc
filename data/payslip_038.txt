@@ -1,9 +1,0 @@
-PAY ADVICE
-Currency: USD
-Company: Thames Bridge Accounting
-Staff member: Imran Jayasinghe
-Pay period: 12/2025
-
-Earnings .... Gross: 6,550.00
-Less ........ Deductions (EPF, tax): 1,166.98
-Paid ........ Take-home pay: 5,383.02

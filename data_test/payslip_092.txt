@@ -1,8 +1,0 @@
-LANKA TEA EXPORTS
-Currency: GBP
-Monthly salary statement
-Period: 01/2025
-Name: Hannah Perera
-Gross                     3,750.00
-Total deductions          746.87
-Amount paid               3,003.13

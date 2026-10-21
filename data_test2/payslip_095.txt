@@ -1,7 +1,0 @@
-ACME TEXTILES (PVT) LTD
-Monthly salary statement
-Period: Dec-2024
-Name: Imran Smith
-Gross pay                 5,100.00 GBP
-Deductions (EPF, tax)     700.00 GBP
-Amount paid               4,400.00 GBP

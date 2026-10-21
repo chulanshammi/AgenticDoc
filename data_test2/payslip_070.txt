@@ -1,8 +1,0 @@
-THAMES BRIDGE ACCOUNTING
-Currency: GBP
-Monthly salary statement
-Period: June 2025
-Name: Tharindu Jayasinghe
-Gross pay                 5,750.00
-Total deductions          700.00
-Amount paid               5,050.00

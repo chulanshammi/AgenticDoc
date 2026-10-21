@@ -1,7 +1,0 @@
-Nova Digital Solutions
-Currency: GBP
-PAYSLIP - Nov-2025
-Employee: Hannah Khan
-Gross pay: 3,450.00
-Total deductions: 545.18
-Amount paid: 2,904.82

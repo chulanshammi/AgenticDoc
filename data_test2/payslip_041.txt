@@ -1,8 +1,0 @@
-NOVA DIGITAL SOLUTIONS
-Currency: GBP
-Monthly salary statement
-Period: February 2024
-Name: Oliver Smith
-Gross                     2,350.00
-Tax & contributions       500.00
-Amount paid               1,850.00

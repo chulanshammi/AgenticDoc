@@ -1,7 +1,0 @@
-Nova Digital Solutions
-Currency: USD
-PAYSLIP - Feb-2024
-Employee: Ruwan Patel
-Gross pay: 2,300.00
-Deductions (EPF, tax): 350.00
-Net pay: 1,950.00

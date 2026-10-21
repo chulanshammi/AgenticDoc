@@ -1,8 +1,0 @@
-CEYLON SPICE TRADERS
-Currency: GBP
-Monthly salary statement
-Period: AUGUST 2025
-Name: Imran Khan
-Gross                     3,500.00
-Total deductions          585.45
-Take-home pay             2,914.55

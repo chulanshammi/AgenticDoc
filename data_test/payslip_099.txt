@@ -1,8 +1,0 @@
-PAY ADVICE
-Company: ACME Textiles (Pvt) Ltd
-Staff member: Kasun Wickramasinghe
-Pay period: Apr-2024
-
-Earnings .... Gross salary: 4,500.00 USD
-Less ........ Total deductions: 900.00 USD
-Paid ........ Net pay: 3,600.00 USD

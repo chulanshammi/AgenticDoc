@@ -1,8 +1,0 @@
-ACME TEXTILES (PVT) LTD
-Currency: GBP
-Monthly salary statement
-Period: April 2024
-Name: Amal De Mel
-Gross                     5,300.00
-Total deductions          450.00
-Net salary                4,850.00

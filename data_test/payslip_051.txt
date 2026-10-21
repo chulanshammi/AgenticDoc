@@ -1,8 +1,0 @@
-CEYLON SPICE TRADERS
-Currency: LKR
-Monthly salary statement
-Period: June 2025
-Name: Ayesha Khan
-Gross salary              229,500.00
-Tax & contributions       19,150.00
-Take-home pay             210,350.00

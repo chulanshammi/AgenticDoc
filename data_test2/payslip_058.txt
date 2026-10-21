@@ -1,7 +1,0 @@
-Greenfield Foods PLC
-Currency: USD
-PAYSLIP - SEPTEMBER 2025
-Employee: Imran Patel
-Gross pay: 2,250.00
-Deductions: 200.00
-Net salary: 2,085.00

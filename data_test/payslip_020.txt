@@ -1,7 +1,0 @@
-Greenfield Foods PLC
-Currency: LKR
-PAYSLIP - 02/2025
-Employee: Dilani De Mel
-Total earnings: 369,500.00
-Total deductions: 99,292.40
-Take-home pay: 270,207.60

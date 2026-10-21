@@ -1,7 +1,0 @@
-GREENFIELD FOODS PLC
-Currency: USD
-Monthly salary statement
-Period: Jul-2025
-Gross salary              5,200.00
-Tax & contributions       1,015.40
-Net pay                   4,184.60

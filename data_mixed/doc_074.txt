@@ -1,7 +1,0 @@
-CEYLON SPICE TRADERS
-Monthly salary statement
-Period: Mar-2024
-Name: Sanduni Fernando
-Total earnings            £2,900.00
-Deductions (EPF, tax)     £750.00
-Net salary                2,100.00 GBP
